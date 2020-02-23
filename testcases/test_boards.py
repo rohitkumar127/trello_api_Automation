@@ -1,4 +1,3 @@
-import pytest
 from trello_elements.boards import board
 from constants import *
 

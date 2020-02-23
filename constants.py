@@ -1,6 +1,11 @@
 querystring_for_board = {
     "name": 'first_board'
 }
+
+querystring_for_list = {
+    "name": 'first_list',
+    "idBoard": 0
+}
 base_url = 'https://api.trello.com/1/'
 
 url_for_board = "boards/"
