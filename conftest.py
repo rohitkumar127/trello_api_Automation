@@ -2,6 +2,7 @@ import pytest
 from trello_elements.boards import board
 from trello_elements.list import trello_list
 from trello_elements.cards import cards
+from trello_elements.member import member
 from constants import *
 
 
@@ -39,6 +40,19 @@ def card_setup():
     querystring_for_cards['name'] = first_card_name
     querystring_for_cards['idList'] = trello_list.create_list_response.json()['id']
     cards.create_card(base_url=base_url, url_for_cards=url_for_cards, querystring=querystring_for_cards)
+    yield
+    board.delete_board(base_url=base_url, url_for_board=url_for_board,
+                       board_id=board.create_board_response.json()['id'])
+
+
+@pytest.yield_fixture()
+def member_setup():
+    querystring_for_board['name'] = first_board_name
+    board.create_board(base_url=base_url, url_for_board=url_for_board,
+                       querystring=querystring_for_board)
+    member.create_board_member(base_url=base_url, url_for_board=url_for_board,
+                               board_id=board.create_board_response.json()['id'], url_for_member=url_for_member,
+                               querystring=querystring_for_member)
     yield
     board.delete_board(base_url=base_url, url_for_board=url_for_board,
                        board_id=board.create_board_response.json()['id'])
