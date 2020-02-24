@@ -11,10 +11,18 @@ querystring_for_cards = {
     "name": "first_card",
     "idList": 0
 }
+querystring_for_label = {
+    "name": "new_label",
+    "color": "blue",
+    "idBoard": 0,
+}
+querystring_for_updated_label_name = {
+    "value": "updated_label"
+}
 
 querystring_for_member = {"email": "saurabh.raj@hashedin.com", "fullName": "Saurabh Raj", "type": "normal"}
 invalid_querystring_for_member = {"fullName": "Rohit Kumar", "type": "normal"}
-
+querystring_for_get_label = {"fields": "all"}
 base_url = 'https://api.trello.com/1/'
 
 url_for_board = "boards/"
@@ -31,4 +39,7 @@ invalid_card_url = 'cords/'
 url_for_member = '/members'
 invalid_card_id = '123456'
 getting_from_members = 'members/'
-
+url_for_avatar = '/avatar'
+querystring_for_member_avatar = {"file": "/home/rohit/Desktop/avatar.png"}
+url_for_label = 'labels/'
+url_to_update_label_name = '/name'

@@ -1,5 +1,5 @@
-from trello_elements.cards import cards
-from trello_elements.list import trello_list
+from trello_pages.cards import cards
+from trello_pages.list import trello_list
 from constants import *
 import pytest
 from logs.logging_setup import logger

@@ -1,4 +1,4 @@
-from trello_elements.boards import board
+from trello_pages.boards import board
 from constants import *
 from logs.logging_setup import *
 

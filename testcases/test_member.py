@@ -1,5 +1,5 @@
-from trello_elements.boards import board
-from trello_elements.member import member
+from trello_pages.boards import board
+from trello_pages.member import member
 from constants import *
 
 
@@ -31,3 +31,13 @@ class TestMember:
         assert member.get_board_member_response.status_code == 200
         assert member.get_board_member_response.json()[1]['fullName'] == querystring_for_member[
             'fullName']
+
+    # def test_test_avatar_creation(self, member_setup):
+    #     member_id = member.create_board_member_response.json()['members'][1]['id']
+    #     reponse = member.creating_avatar_for_member(base_url=base_url, url_for_member=url_for_member,
+    #                                                 member_id=member_id,
+    #                                                 url_for_avatar=url_for_avatar,
+    #                                                 querystring=querystring_for_member_avatar)
+    #     print(reponse.json())
+    #     print(member.member_avatar_response.json())
+

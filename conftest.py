@@ -1,12 +1,12 @@
 import pytest
-from trello_elements.boards import board
-from trello_elements.list import trello_list
-from trello_elements.cards import cards
-from trello_elements.member import member
+from trello_pages.boards import board
+from trello_pages.list import trello_list
+from trello_pages.cards import cards
+from trello_pages.member import member
 from constants import *
 
 
-@pytest.yield_fixture()
+@pytest.fixture()
 def board_setup():
     querystring_for_board['name'] = first_board_name
     board.create_board(base_url=base_url, url_for_board=url_for_board,
@@ -16,7 +16,7 @@ def board_setup():
                        board_id=board.create_board_response.json()['id'])
 
 
-@pytest.yield_fixture()
+@pytest.fixture()
 def list_setup():
     querystring_for_board['name'] = first_board_name
     board.create_board(base_url=base_url, url_for_board=url_for_board,
@@ -29,7 +29,7 @@ def list_setup():
                        board_id=board.create_board_response.json()['id'])
 
 
-@pytest.yield_fixture()
+@pytest.fixture()
 def card_setup():
     querystring_for_board['name'] = first_board_name
     board.create_board(base_url=base_url, url_for_board=url_for_board,
@@ -45,7 +45,7 @@ def card_setup():
                        board_id=board.create_board_response.json()['id'])
 
 
-@pytest.yield_fixture()
+@pytest.fixture()
 def member_setup():
     querystring_for_board['name'] = first_board_name
     board.create_board(base_url=base_url, url_for_board=url_for_board,

@@ -1,5 +1,5 @@
-from trello_elements.list import trello_list
-from trello_elements.boards import board
+from trello_pages.list import trello_list
+from trello_pages.boards import board
 from constants import *
 
 
