@@ -16,7 +16,7 @@ class TestLists:
         assert response.status_code == 400
 
     def test_list_unsuccessful_creation_providing_invalid_board_id(self, list_setup):
-        """creating invalid list by providing it with boardId in integer form rather than string form"""
+        """creating invalid list by providing it with boardId which is invalid"""
         querystring_for_list['idBoard'] = "12344"
         response = trello_list.create_list(base_url=base_url, url_for_list=url_for_list,
                                            querystring=querystring_for_list)
@@ -31,4 +31,8 @@ class TestLists:
         assert trello_list.update_list_response.status_code == 200
         assert trello_list.update_list_response.json()['name'] == updated_list_name
 
-
+    def test_getting_list_data(self, list_setup):
+        trello_list.get_list_details(base_url=base_url, url_for_list=url_for_list,
+                                     list_id=trello_list.create_list_response.json()['id'])
+        assert trello_list.get_list_response.status_code == 200
+        assert trello_list.get_list_response.json()['name'] == first_list_name

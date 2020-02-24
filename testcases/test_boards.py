@@ -8,7 +8,7 @@ class TestBoards:
         assert board.create_board_response.json()['name'] == first_board_name
 
     def test_create_invalid_board(self):
-        """create invalid board  situation by providing wrong board url"""
+        """create invalid board  situation by providing wrong board url which will give 404 or page not found error"""
         response = board.create_board(base_url=base_url, url_for_board=invalid_board_url,
                                       querystring=querystring_for_board)
         assert response.status_code == 404

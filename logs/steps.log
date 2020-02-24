@@ -1,0 +1,65 @@
+2020-02-24 13:36:35,094:boards.py:create_board:Board created
+2020-02-24 13:36:35,933:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:36:36,340:boards.py:create_board:There was an error in creating board
+2020-02-24 13:36:37,675:boards.py:create_board:Board created
+2020-02-24 13:36:38,186:boards.py:update_board_details:Board data updated received
+2020-02-24 13:36:38,952:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:36:39,618:boards.py:create_board:Board created
+2020-02-24 13:36:40,026:boards.py:get_board_details:board data successfully received
+2020-02-24 13:36:40,865:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:36:41,374:boards.py:create_board:Board created
+2020-02-24 13:36:42,094:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:36:42,484:boards.py:delete_board:There was an error in deleting board
+2020-02-24 13:36:42,943:boards.py:create_board:Board created
+2020-02-24 13:36:43,376:list.py:create_list:List successfully created
+2020-02-24 13:36:44,222:cards.py:create_card:Card successfully created
+2020-02-24 13:36:45,665:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:36:46,168:boards.py:create_board:Board created
+2020-02-24 13:36:46,586:list.py:create_list:List successfully created
+2020-02-24 13:36:47,089:cards.py:create_card:Card successfully created
+2020-02-24 13:36:47,503:cards.py:create_card:There was an error in creating card
+2020-02-24 13:36:48,933:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:36:49,552:boards.py:create_board:Board created
+2020-02-24 13:36:50,025:list.py:create_list:List successfully created
+2020-02-24 13:36:50,777:cards.py:create_card:Card successfully created
+2020-02-24 13:36:51,190:cards.py:create_card:There was an error in creating card
+2020-02-24 13:36:52,526:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:36:53,038:boards.py:create_board:Board created
+2020-02-24 13:36:53,646:list.py:create_list:List successfully created
+2020-02-24 13:36:54,161:cards.py:create_card:Card successfully created
+2020-02-24 13:36:54,577:cards.py:get_card_details:Card data successfully received
+2020-02-24 13:36:55,800:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:36:56,326:boards.py:create_board:Board created
+2020-02-24 13:36:56,922:list.py:create_list:List successfully created
+2020-02-24 13:36:57,492:cards.py:create_card:Card successfully created
+2020-02-24 13:36:58,046:cards.py:update_card_details:Card data successfully updated
+2020-02-24 13:36:58,836:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:36:59,385:boards.py:create_board:Board created
+2020-02-24 13:36:59,817:list.py:create_list:List successfully created
+2020-02-24 13:37:00,403:cards.py:create_card:Card successfully created
+2020-02-24 13:37:00,881:cards.py:delete_card:Card successfully deleted
+2020-02-24 13:37:01,643:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:37:02,108:boards.py:create_board:Board created
+2020-02-24 13:37:02,531:list.py:create_list:List successfully created
+2020-02-24 13:37:03,167:cards.py:create_card:Card successfully created
+2020-02-24 13:37:03,577:cards.py:delete_card:There was an error in deleting card
+2020-02-24 13:37:04,321:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:37:04,832:boards.py:create_board:Board created
+2020-02-24 13:37:05,262:list.py:create_list:List successfully created
+2020-02-24 13:37:06,139:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:37:06,650:boards.py:create_board:Board created
+2020-02-24 13:37:07,165:list.py:create_list:List successfully created
+2020-02-24 13:37:07,524:list.py:create_list:There was an error in creating list
+2020-02-24 13:37:08,886:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:37:09,413:boards.py:create_board:Board created
+2020-02-24 13:37:09,927:list.py:create_list:List successfully created
+2020-02-24 13:37:10,334:list.py:create_list:There was an error in creating list
+2020-02-24 13:37:11,984:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:37:12,490:boards.py:create_board:Board created
+2020-02-24 13:37:12,912:list.py:create_list:List successfully created
+2020-02-24 13:37:13,410:list.py:update_list_details:Card data successfully updated
+2020-02-24 13:37:14,252:boards.py:delete_board:Board successfully deleted
+2020-02-24 13:37:14,943:boards.py:create_board:Board created
+2020-02-24 13:37:15,357:list.py:create_list:List successfully created
+2020-02-24 13:37:15,683:list.py:get_list_details:List data successfully received
+2020-02-24 13:37:16,479:boards.py:delete_board:Board successfully deleted

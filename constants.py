@@ -6,6 +6,11 @@ querystring_for_list = {
     "name": 'first_list',
     "idBoard": 0
 }
+
+querystring_for_cards = {
+    "name": "first_card",
+    "idList": 0
+}
 base_url = 'https://api.trello.com/1/'
 
 url_for_board = "boards/"
@@ -18,3 +23,5 @@ first_card_name = 'first_card'
 url_for_cards = 'cards/'
 updated_card_name = 'updated_card'
 invalid_board_url = 'beards/'
+invalid_card_url = 'cords/'
+invalid_card_id = '123456'
