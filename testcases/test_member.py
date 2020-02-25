@@ -43,7 +43,7 @@ class TestMember:
         board_id = board.create_board_response.json()['id']
         member.create_board_member(base_url=base_url, url_for_board=url_for_board, board_id=board_id,
                                    url_for_member=url_for_member, querystring=invalid_querystring_for_member)
-        self.compare_values(member.create_board_member_response.json()['message'], 'invalid email address')
+        self.compare_values(member.create_board_member_response.json()['message'], message_for_invalid_emailpylint )
 
     @pytest.mark.get
     @pytest.mark.usefixtures("member_setup")

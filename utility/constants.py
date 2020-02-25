@@ -45,3 +45,4 @@ url_for_label = 'labels/'
 url_to_update_label_name = '/name'
 url_for_notifications = '/notifications/'
 querystring_to_set_notification_status_as_unread = {"unread": "true"}
+message_for_invalid_email = 'invalid email address'
