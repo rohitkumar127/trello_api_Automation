@@ -818,3 +818,1463 @@ AssertionError: assert 404 == 400
 2020-02-24 23:40:29,282:label.py:Label successfully created
 2020-02-24 23:40:29,687:label.py:Label successfully created
 2020-02-24 23:40:30,341:boards.py:Board successfully deleted
+2020-02-24 23:57:32,428:boards.py:Board created
+2020-02-24 23:57:32,920:member.py:Board data updated received
+2020-02-24 23:57:33,735:boards.py:Board successfully deleted
+2020-02-24 23:57:34,143:member.py:There was an error in updating board data
+2020-02-24 23:57:34,735:boards.py:Board created
+2020-02-24 23:57:35,198:member.py:Board data updated received
+2020-02-24 23:57:35,499:member.py:Board data updated received
+2020-02-24 23:57:36,663:boards.py:Board successfully deleted
+2020-02-24 23:57:37,132:boards.py:Board created
+2020-02-24 23:57:37,625:member.py:Board data updated received
+2020-02-24 23:57:37,908:member.py:There was an error in updating board data
+2020-02-24 23:57:38,701:boards.py:Board successfully deleted
+2020-02-24 23:57:39,302:boards.py:Board created
+2020-02-24 23:57:39,832:member.py:Board data updated received
+2020-02-24 23:57:40,131:member.py:There was an error in updating board data
+2020-02-24 23:57:41,038:boards.py:Board successfully deleted
+2020-02-25 00:00:32,182:boards.py:Board created
+2020-02-25 00:00:32,601:member.py:Board data updated received
+2020-02-25 00:00:33,398:boards.py:Board successfully deleted
+2020-02-25 00:00:34,042:member.py:There was an error in updating board data
+2020-02-25 00:00:34,622:boards.py:Board created
+2020-02-25 00:00:35,162:member.py:Board data updated received
+2020-02-25 00:00:35,522:member.py:Board data updated received
+2020-02-25 00:00:36,302:boards.py:Board successfully deleted
+2020-02-25 00:00:36,802:boards.py:Board created
+2020-02-25 00:00:37,206:member.py:Board data updated received
+2020-02-25 00:00:38,042:member.py:There was an error in updating board data
+2020-02-25 00:00:38,811:boards.py:Board successfully deleted
+2020-02-25 00:00:39,487:boards.py:Board created
+2020-02-25 00:00:40,026:member.py:Board data updated received
+2020-02-25 00:00:40,326:member.py:There was an error in updating board data
+2020-02-25 00:00:41,255:boards.py:Board successfully deleted
+2020-02-25 00:02:09,023:boards.py:Board created
+2020-02-25 00:02:09,523:member.py:Board data updated received
+2020-02-25 00:02:10,565:boards.py:Board successfully deleted
+2020-02-25 00:02:10,876:member.py:There was an error in updating board data
+2020-02-25 00:02:12,507:boards.py:Board created
+2020-02-25 00:02:13,229:member.py:Board data updated received
+2020-02-25 00:02:13,628:member.py:Board data updated received
+2020-02-25 00:02:14,539:boards.py:Board successfully deleted
+2020-02-25 00:02:15,049:boards.py:Board created
+2020-02-25 00:02:15,585:member.py:Board data updated received
+2020-02-25 00:02:16,088:member.py:There was an error in updating board data
+2020-02-25 00:02:17,112:boards.py:Board successfully deleted
+2020-02-25 00:02:17,617:boards.py:Board created
+2020-02-25 00:02:18,084:member.py:Board data updated received
+2020-02-25 00:02:18,426:member.py:There was an error in updating board data
+2020-02-25 00:02:19,301:boards.py:Board successfully deleted
+2020-02-25 00:02:38,200:boards.py:Board created
+2020-02-25 00:02:38,611:member.py:Board data updated received
+2020-02-25 00:02:39,410:boards.py:Board successfully deleted
+2020-02-25 00:02:39,675:member.py:There was an error in updating board data
+2020-02-25 00:02:40,254:boards.py:Board created
+2020-02-25 00:02:40,889:member.py:Board data updated received
+2020-02-25 00:02:41,376:member.py:Board data updated received
+2020-02-25 00:02:42,329:boards.py:Board successfully deleted
+2020-02-25 00:02:42,799:boards.py:Board created
+2020-02-25 00:02:43,309:member.py:Board data updated received
+2020-02-25 00:02:43,653:member.py:There was an error in updating board data
+2020-02-25 00:02:44,481:boards.py:Board successfully deleted
+2020-02-25 00:02:44,964:boards.py:Board created
+2020-02-25 00:02:45,390:member.py:Board data updated received
+2020-02-25 00:02:45,943:member.py:There was an error in updating board data
+2020-02-25 00:02:46,801:boards.py:Board successfully deleted
+2020-02-25 00:03:13,427:boards.py:Board created
+2020-02-25 00:03:13,846:member.py:Board data updated received
+2020-02-25 00:03:14,691:boards.py:Board successfully deleted
+2020-02-25 00:03:15,084:member.py:There was an error in updating board data
+2020-02-25 00:03:15,674:boards.py:Board created
+2020-02-25 00:03:16,070:member.py:Board data updated received
+2020-02-25 00:03:16,358:member.py:Board data updated received
+2020-02-25 00:03:17,248:boards.py:Board successfully deleted
+2020-02-25 00:03:17,824:boards.py:Board created
+2020-02-25 00:03:18,250:member.py:Board data updated received
+2020-02-25 00:03:18,664:member.py:There was an error in updating board data
+2020-02-25 00:03:19,668:boards.py:Board successfully deleted
+2020-02-25 00:03:20,180:boards.py:Board created
+2020-02-25 00:03:20,712:member.py:Board data updated received
+2020-02-25 00:03:21,098:member.py:Board data updated received
+2020-02-25 00:03:22,012:boards.py:Board successfully deleted
+2020-02-25 00:03:35,062:boards.py:Board created
+2020-02-25 00:03:35,546:member.py:Board data updated received
+2020-02-25 00:03:36,362:boards.py:Board successfully deleted
+2020-02-25 00:03:36,711:member.py:There was an error in updating board data
+2020-02-25 00:03:37,175:boards.py:Board created
+2020-02-25 00:03:37,607:member.py:Board data updated received
+2020-02-25 00:03:37,889:member.py:Board data updated received
+2020-02-25 00:03:39,071:boards.py:Board successfully deleted
+2020-02-25 00:03:39,471:boards.py:Board created
+2020-02-25 00:03:39,943:member.py:Board data updated received
+2020-02-25 00:03:40,258:member.py:There was an error in updating board data
+2020-02-25 00:03:41,190:boards.py:Board successfully deleted
+2020-02-25 00:03:42,400:boards.py:Board created
+2020-02-25 00:03:42,812:member.py:Board data updated received
+2020-02-25 00:03:43,316:member.py:Board data updated received
+2020-02-25 00:03:44,276:boards.py:Board successfully deleted
+2020-02-25 00:04:37,510:boards.py:Board created
+2020-02-25 00:04:38,045:member.py:Board data updated received
+2020-02-25 00:04:38,841:boards.py:Board successfully deleted
+2020-02-25 00:04:39,094:member.py:There was an error in updating board data
+2020-02-25 00:04:39,638:boards.py:Board created
+2020-02-25 00:04:40,050:member.py:Board data updated received
+2020-02-25 00:04:40,375:member.py:Board data updated received
+2020-02-25 00:04:41,223:boards.py:Board successfully deleted
+2020-02-25 00:04:41,694:boards.py:Board created
+2020-02-25 00:04:42,103:member.py:Board data updated received
+2020-02-25 00:04:42,620:member.py:There was an error in updating board data
+2020-02-25 00:04:43,354:boards.py:Board successfully deleted
+2020-02-25 00:04:43,845:boards.py:Board created
+2020-02-25 00:04:44,356:member.py:Board data updated received
+2020-02-25 00:04:44,668:member.py:Board data updated received
+2020-02-25 00:04:45,543:boards.py:Board successfully deleted
+2020-02-25 00:08:03,119:boards.py:Board created
+2020-02-25 00:08:03,533:member.py:Board data updated received
+2020-02-25 00:08:04,352:boards.py:Board successfully deleted
+2020-02-25 00:08:04,597:member.py:There was an error in updating board data
+2020-02-25 00:08:05,104:boards.py:Board created
+2020-02-25 00:08:05,510:member.py:Board data updated received
+2020-02-25 00:08:05,867:member.py:Board data updated received
+2020-02-25 00:08:06,727:boards.py:Board successfully deleted
+2020-02-25 00:08:07,204:boards.py:Board created
+2020-02-25 00:08:07,840:member.py:Board data updated received
+2020-02-25 00:08:08,153:member.py:There was an error in updating board data
+2020-02-25 00:08:08,964:boards.py:Board successfully deleted
+2020-02-25 00:08:09,392:boards.py:Board created
+2020-02-25 00:08:10,014:member.py:Board data updated received
+2020-02-25 00:08:10,315:member.py:Board data updated received
+2020-02-25 00:08:11,038:boards.py:Board successfully deleted
+2020-02-25 00:08:11,613:boards.py:Board created
+2020-02-25 00:08:12,137:member.py:Board data updated received
+2020-02-25 00:08:12,422:member.py:There was an error in updating board data
+2020-02-25 00:08:13,460:boards.py:Board successfully deleted
+2020-02-25 00:08:48,262:boards.py:Board created
+2020-02-25 00:08:48,685:member.py:Board data updated received
+2020-02-25 00:08:49,478:boards.py:Board successfully deleted
+2020-02-25 00:08:49,840:member.py:There was an error in updating board data
+2020-02-25 00:08:50,325:boards.py:Board created
+2020-02-25 00:08:50,846:member.py:Board data updated received
+2020-02-25 00:08:51,232:member.py:Board data updated received
+2020-02-25 00:08:52,782:boards.py:Board successfully deleted
+2020-02-25 00:08:53,203:boards.py:Board created
+2020-02-25 00:08:53,606:member.py:Board data updated received
+2020-02-25 00:08:54,237:member.py:There was an error in updating board data
+2020-02-25 00:08:55,058:boards.py:Board successfully deleted
+2020-02-25 00:08:55,565:boards.py:Board created
+2020-02-25 00:08:56,177:member.py:Board data updated received
+2020-02-25 00:08:56,474:member.py:Board data updated received
+2020-02-25 00:08:57,942:boards.py:Board successfully deleted
+2020-02-25 00:08:58,403:boards.py:Board created
+2020-02-25 00:08:58,821:member.py:Board data updated received
+2020-02-25 00:08:59,231:member.py:There was an error in updating board data
+2020-02-25 00:09:00,357:boards.py:Board successfully deleted
+2020-02-25 00:11:01,188:boards.py:Board created
+2020-02-25 00:11:01,805:member.py:Board data updated received
+2020-02-25 00:11:03,241:boards.py:Board successfully deleted
+2020-02-25 00:11:03,560:member.py:There was an error in updating board data
+2020-02-25 00:11:05,028:boards.py:Board created
+2020-02-25 00:11:05,494:member.py:Board data updated received
+2020-02-25 00:11:05,960:member.py:Board data updated received
+2020-02-25 00:11:06,734:boards.py:Board successfully deleted
+2020-02-25 00:11:07,174:boards.py:Board created
+2020-02-25 00:11:07,626:member.py:Board data updated received
+2020-02-25 00:11:07,956:member.py:There was an error in updating board data
+2020-02-25 00:11:08,987:boards.py:Board successfully deleted
+2020-02-25 00:11:09,619:boards.py:Board created
+2020-02-25 00:11:10,039:member.py:Board data updated received
+2020-02-25 00:11:10,401:member.py:Board data updated received
+2020-02-25 00:11:11,232:boards.py:Board successfully deleted
+2020-02-25 00:16:47,330:boards.py:Board successfully deleted
+2020-02-25 00:18:11,534:boards.py:Board successfully deleted
+2020-02-25 00:32:20,704:boards.py:Board successfully deleted
+2020-02-25 00:33:26,965:test_boards.py:Assertion error
+Traceback (most recent call last):
+  File "/home/rohit/major_api_assignment/testcases/test_boards.py", line 10, in compare
+    assert x == y
+AssertionError: assert 200 == 400
+2020-02-25 00:33:27,685:boards.py:Board successfully deleted
+2020-02-25 00:34:07,690:test_boards.py:Test Successful
+2020-02-25 00:34:08,381:boards.py:Board successfully deleted
+2020-02-25 00:43:49,941:boards.py:Board successfully created
+2020-02-25 00:43:49,942:test_boards.py:Test Successful
+2020-02-25 00:43:51,031:boards.py:Board successfully deleted
+2020-02-25 00:43:51,308:boards.py:Error in creating board
+2020-02-25 00:43:51,308:test_boards.py:Test Successful
+2020-02-25 00:44:11,554:boards.py:Board successfully created
+2020-02-25 00:44:11,555:test_boards.py:Test Successful
+2020-02-25 00:44:12,183:boards.py:Board successfully deleted
+2020-02-25 00:44:12,577:boards.py:Error in creating board
+2020-02-25 00:44:12,577:test_boards.py:Test Successful
+2020-02-25 00:44:25,828:boards.py:Board successfully created
+2020-02-25 00:44:25,829:test_boards.py:Test Successful
+2020-02-25 00:44:26,559:boards.py:Board successfully deleted
+2020-02-25 00:44:26,864:boards.py:Error in creating board
+2020-02-25 00:44:26,864:test_boards.py:Test Successful
+2020-02-25 00:45:49,862:boards.py:Board successfully created
+2020-02-25 00:45:49,865:test_boards.py:Test Successful
+2020-02-25 00:45:50,502:boards.py:Board successfully deleted
+2020-02-25 00:45:50,879:boards.py:Error in creating board
+2020-02-25 00:45:50,879:test_boards.py:Test Successful
+2020-02-25 00:47:16,175:boards.py:Board successfully created
+2020-02-25 00:47:16,177:test_boards.py:Test Successful
+2020-02-25 00:47:16,855:boards.py:Board successfully deleted
+2020-02-25 00:47:17,199:boards.py:Error in creating board
+2020-02-25 00:47:17,199:test_boards.py:Test Successful
+2020-02-25 00:49:14,150:boards.py:Board successfully created
+2020-02-25 00:49:14,152:test_boards.py:Test Successful
+2020-02-25 00:49:14,822:boards.py:Board successfully deleted
+2020-02-25 00:49:15,177:boards.py:Error in creating board
+2020-02-25 00:49:15,177:test_boards.py:Test Successful
+2020-02-25 00:50:18,346:boards.py:Board successfully created
+2020-02-25 00:50:18,348:test_boards.py:Test Successful
+2020-02-25 00:50:19,085:boards.py:Board successfully deleted
+2020-02-25 00:50:19,424:boards.py:Error in creating board
+2020-02-25 00:50:19,425:test_boards.py:Test Successful
+2020-02-25 00:50:42,181:boards.py:Board successfully created
+2020-02-25 00:50:42,184:test_boards.py:Test Successful
+2020-02-25 00:50:42,866:boards.py:Board successfully deleted
+2020-02-25 00:50:43,230:boards.py:Error in creating board
+2020-02-25 00:50:43,232:test_boards.py:Assertion error
+Traceback (most recent call last):
+  File "/home/rohit/major_api_assignment/testcases/test_boards.py", line 11, in compare_values
+    assert x == y
+AssertionError: assert 404 == 400
+2020-02-25 00:53:39,061:boards.py:Board successfully created
+2020-02-25 00:53:39,063:test_boards.py:Test Successful
+2020-02-25 00:53:39,777:boards.py:Board successfully deleted
+2020-02-25 00:53:40,076:boards.py:Error in creating board
+2020-02-25 00:53:40,077:test_boards.py:Test Successful
+2020-02-25 00:53:40,591:boards.py:Board successfully created
+2020-02-25 00:53:40,945:boards.py:Board data updated received
+2020-02-25 00:53:41,550:boards.py:Board successfully deleted
+2020-02-25 00:57:01,202:boards.py:Board successfully created
+2020-02-25 00:57:01,205:test_boards.py:Test Successful
+2020-02-25 00:57:01,881:boards.py:Board successfully deleted
+2020-02-25 00:57:02,220:boards.py:Error in creating board
+2020-02-25 00:57:02,220:test_boards.py:Test Successful
+2020-02-25 00:57:02,693:boards.py:Board successfully created
+2020-02-25 00:57:03,068:boards.py:Board successfully updated
+2020-02-25 00:57:03,068:test_boards.py:Test Successful
+2020-02-25 00:57:03,750:boards.py:Board successfully deleted
+2020-02-25 00:58:30,491:boards.py:Board successfully created
+2020-02-25 00:58:30,493:test_boards.py:Test Successful
+2020-02-25 00:58:31,106:boards.py:Board successfully deleted
+2020-02-25 00:58:31,412:boards.py:Error in creating board
+2020-02-25 00:58:31,412:test_boards.py:Test Successful
+2020-02-25 00:58:31,877:boards.py:Board successfully created
+2020-02-25 00:58:32,239:boards.py:Board successfully updated
+2020-02-25 00:58:32,239:test_boards.py:Test Successful
+2020-02-25 00:58:33,026:boards.py:Board successfully deleted
+2020-02-25 00:58:33,462:boards.py:Board successfully created
+2020-02-25 00:58:33,813:boards.py:Board successfully updated
+2020-02-25 00:58:33,813:test_boards.py:Test Successful
+2020-02-25 00:58:34,432:boards.py:Board successfully deleted
+2020-02-25 00:58:44,719:boards.py:Board successfully created
+2020-02-25 00:58:44,720:test_boards.py:Test Successful
+2020-02-25 00:58:45,445:boards.py:Board successfully deleted
+2020-02-25 00:58:45,744:boards.py:Error in creating board
+2020-02-25 00:58:45,744:test_boards.py:Test Successful
+2020-02-25 00:58:46,255:boards.py:Board successfully created
+2020-02-25 00:58:46,611:boards.py:Board successfully updated
+2020-02-25 00:58:46,611:test_boards.py:Test Successful
+2020-02-25 00:58:47,343:boards.py:Board successfully deleted
+2020-02-25 00:58:47,794:boards.py:Board successfully created
+2020-02-25 00:58:48,141:boards.py:Board successfully updated
+2020-02-25 00:58:48,147:test_boards.py:Assertion error
+Traceback (most recent call last):
+  File "/home/rohit/major_api_assignment/testcases/test_boards.py", line 11, in compare_values
+    assert x == y
+AssertionError: assert 'testing' == 'board'
+  - testing
+  + board
+2020-02-25 00:58:48,836:boards.py:Board successfully deleted
+2020-02-25 01:02:37,475:boards.py:Board successfully created
+2020-02-25 01:02:37,477:test_boards.py:Test Successful
+2020-02-25 01:02:38,103:boards.py:Board successfully deleted
+2020-02-25 01:02:38,383:boards.py:Error in creating board
+2020-02-25 01:02:38,383:test_boards.py:Test Successful
+2020-02-25 01:02:39,115:boards.py:Board successfully created
+2020-02-25 01:02:39,523:boards.py:Board successfully updated
+2020-02-25 01:02:39,523:test_boards.py:Test Successful
+2020-02-25 01:02:40,147:boards.py:Board successfully deleted
+2020-02-25 01:02:40,652:boards.py:Board successfully created
+2020-02-25 01:02:41,040:boards.py:Board successfully updated
+2020-02-25 01:02:41,040:test_boards.py:Test Successful
+2020-02-25 01:02:41,632:boards.py:Board successfully deleted
+2020-02-25 01:02:42,040:boards.py:Board successfully created
+2020-02-25 01:02:42,334:boards.py:Board successfully created
+2020-02-25 01:02:42,335:test_boards.py:Test Successful
+2020-02-25 01:02:42,942:boards.py:Board successfully deleted
+2020-02-25 01:02:43,414:boards.py:Board successfully created
+2020-02-25 01:02:43,728:boards.py:Board successfully created
+2020-02-25 01:02:43,728:test_boards.py:Test Successful
+2020-02-25 01:02:44,359:boards.py:Board successfully deleted
+2020-02-25 01:05:07,705:boards.py:Board successfully created
+2020-02-25 01:05:07,707:test_boards.py:Test Successful
+2020-02-25 01:05:08,373:boards.py:Board successfully deleted
+2020-02-25 01:05:08,729:boards.py:Error in creating board
+2020-02-25 01:05:08,729:test_boards.py:Test Successful
+2020-02-25 01:05:09,875:boards.py:Board successfully created
+2020-02-25 01:05:10,253:boards.py:Board successfully updated
+2020-02-25 01:05:10,253:test_boards.py:Test Successful
+2020-02-25 01:05:10,858:boards.py:Board successfully deleted
+2020-02-25 01:05:11,284:boards.py:Board successfully created
+2020-02-25 01:05:11,640:boards.py:Board successfully updated
+2020-02-25 01:05:11,640:test_boards.py:Test Successful
+2020-02-25 01:05:12,261:boards.py:Board successfully deleted
+2020-02-25 01:05:12,719:boards.py:Board successfully created
+2020-02-25 01:05:13,023:boards.py:Board data successfully received
+2020-02-25 01:05:13,024:test_boards.py:Test Successful
+2020-02-25 01:05:13,758:boards.py:Board successfully deleted
+2020-02-25 01:05:14,254:boards.py:Board successfully created
+2020-02-25 01:05:14,559:boards.py:Board data successfully received
+2020-02-25 01:05:14,559:test_boards.py:Test Successful
+2020-02-25 01:05:15,228:boards.py:Board successfully deleted
+2020-02-25 01:05:15,683:boards.py:Board successfully created
+2020-02-25 01:05:16,333:boards.py:Board successfully deleted
+2020-02-25 01:05:16,633:boards.py:Error in deleting board
+2020-02-25 01:05:40,057:boards.py:Board successfully created
+2020-02-25 01:05:40,059:test_boards.py:Test Successful
+2020-02-25 01:05:41,353:boards.py:Board successfully deleted
+2020-02-25 01:05:41,738:boards.py:Error in creating board
+2020-02-25 01:05:41,739:test_boards.py:Test Successful
+2020-02-25 01:05:42,415:boards.py:Board successfully created
+2020-02-25 01:05:42,803:boards.py:Board successfully updated
+2020-02-25 01:05:42,804:test_boards.py:Test Successful
+2020-02-25 01:05:43,423:boards.py:Board successfully deleted
+2020-02-25 01:05:43,936:boards.py:Board successfully created
+2020-02-25 01:05:44,264:boards.py:Board successfully updated
+2020-02-25 01:05:44,265:test_boards.py:Test Successful
+2020-02-25 01:05:44,899:boards.py:Board successfully deleted
+2020-02-25 01:05:45,381:boards.py:Board successfully created
+2020-02-25 01:05:45,692:boards.py:Board data successfully received
+2020-02-25 01:05:45,693:test_boards.py:Test Successful
+2020-02-25 01:05:46,334:boards.py:Board successfully deleted
+2020-02-25 01:05:46,815:boards.py:Board successfully created
+2020-02-25 01:05:47,093:boards.py:Board data successfully received
+2020-02-25 01:05:47,094:test_boards.py:Test Successful
+2020-02-25 01:05:47,736:boards.py:Board successfully deleted
+2020-02-25 01:05:48,453:boards.py:Board successfully created
+2020-02-25 01:05:49,087:boards.py:Board successfully deleted
+2020-02-25 01:05:49,088:test_boards.py:Test Successful
+2020-02-25 01:05:49,375:boards.py:Error in deleting board
+2020-02-25 01:11:10,197:boards.py:Board successfully created
+2020-02-25 01:11:10,200:test_boards.py:Test Successful
+2020-02-25 01:11:10,816:boards.py:Board successfully deleted
+2020-02-25 01:11:11,119:boards.py:Error in creating board
+2020-02-25 01:11:12,352:boards.py:Board successfully created
+2020-02-25 01:11:12,685:boards.py:Board successfully updated
+2020-02-25 01:11:12,686:test_boards.py:Test Successful
+2020-02-25 01:11:13,280:boards.py:Board successfully deleted
+2020-02-25 01:11:13,781:boards.py:Board successfully created
+2020-02-25 01:11:14,119:boards.py:Board successfully updated
+2020-02-25 01:11:14,120:test_boards.py:Test Successful
+2020-02-25 01:11:15,068:boards.py:Board successfully deleted
+2020-02-25 01:11:15,523:boards.py:Board successfully created
+2020-02-25 01:11:15,830:boards.py:Board data successfully received
+2020-02-25 01:11:15,830:test_boards.py:Test Successful
+2020-02-25 01:11:16,498:boards.py:Board successfully deleted
+2020-02-25 01:11:16,941:boards.py:Board successfully created
+2020-02-25 01:11:17,263:boards.py:Board data successfully received
+2020-02-25 01:11:17,264:test_boards.py:Test Successful
+2020-02-25 01:11:17,930:boards.py:Board successfully deleted
+2020-02-25 01:11:18,389:boards.py:Board successfully created
+2020-02-25 01:11:19,088:boards.py:Board successfully deleted
+2020-02-25 01:11:19,088:test_boards.py:Test Successful
+2020-02-25 01:11:19,411:boards.py:Error in deleting board
+2020-02-25 01:11:58,741:boards.py:Board successfully created
+2020-02-25 01:11:58,742:test_boards.py:Test Successful
+2020-02-25 01:11:59,656:boards.py:Board successfully deleted
+2020-02-25 01:11:59,968:boards.py:Error in creating board
+2020-02-25 01:12:00,476:boards.py:Board successfully created
+2020-02-25 01:12:00,808:boards.py:Board successfully updated
+2020-02-25 01:12:00,809:test_boards.py:Test Successful
+2020-02-25 01:12:01,444:boards.py:Board successfully deleted
+2020-02-25 01:12:01,877:boards.py:Board successfully created
+2020-02-25 01:12:02,209:boards.py:Board successfully updated
+2020-02-25 01:12:02,209:test_boards.py:Test Successful
+2020-02-25 01:12:02,835:boards.py:Board successfully deleted
+2020-02-25 01:12:03,247:boards.py:Board successfully created
+2020-02-25 01:12:03,549:boards.py:Board data successfully received
+2020-02-25 01:12:03,549:test_boards.py:Test Successful
+2020-02-25 01:12:04,325:boards.py:Board successfully deleted
+2020-02-25 01:12:04,789:boards.py:Board successfully created
+2020-02-25 01:12:05,069:boards.py:Board data successfully received
+2020-02-25 01:12:05,069:test_boards.py:Test Successful
+2020-02-25 01:12:06,037:boards.py:Board successfully deleted
+2020-02-25 01:12:06,518:boards.py:Board successfully created
+2020-02-25 01:12:07,162:boards.py:Board successfully deleted
+2020-02-25 01:12:07,162:test_boards.py:Test Successful
+2020-02-25 01:12:07,541:boards.py:Error in deleting board
+2020-02-25 01:16:19,146:boards.py:Board successfully created
+2020-02-25 01:16:19,511:list.py:List successfully created
+2020-02-25 01:16:19,512:test_list.py:Test Successful
+2020-02-25 01:16:20,142:boards.py:Board successfully deleted
+2020-02-25 01:16:20,636:boards.py:Board successfully created
+2020-02-25 01:16:21,117:list.py:List successfully created
+2020-02-25 01:16:21,118:test_list.py:Test Successful
+2020-02-25 01:16:21,712:boards.py:Board successfully deleted
+2020-02-25 01:16:22,213:boards.py:Board successfully created
+2020-02-25 01:16:22,521:list.py:Error in creating list
+2020-02-25 01:16:22,521:test_list.py:Test Successful
+2020-02-25 01:16:23,900:boards.py:Board successfully deleted
+2020-02-25 01:16:31,840:boards.py:Board successfully created
+2020-02-25 01:16:32,183:list.py:List successfully created
+2020-02-25 01:16:32,185:test_list.py:Test Successful
+2020-02-25 01:16:32,789:boards.py:Board successfully deleted
+2020-02-25 01:16:33,273:boards.py:Board successfully created
+2020-02-25 01:16:33,617:list.py:List successfully created
+2020-02-25 01:16:33,620:test_list.py:Test Successful
+2020-02-25 01:16:34,208:boards.py:Board successfully deleted
+2020-02-25 01:16:34,709:boards.py:Board successfully created
+2020-02-25 01:16:35,011:list.py:Error in creating list
+2020-02-25 01:16:35,011:test_list.py:Assertion error
+Traceback (most recent call last):
+  File "/home/rohit/major_api_assignment/testcases/test_list.py", line 12, in compare_values
+    assert x == y
+AssertionError: assert 400 == 404
+2020-02-25 01:16:35,759:boards.py:Board successfully deleted
+2020-02-25 01:21:41,457:boards.py:Board successfully created
+2020-02-25 01:21:41,841:list.py:List successfully created
+2020-02-25 01:21:41,842:test_list.py:Test Successful
+2020-02-25 01:21:42,455:boards.py:Board successfully deleted
+2020-02-25 01:21:42,939:boards.py:Board successfully created
+2020-02-25 01:21:43,279:list.py:List successfully created
+2020-02-25 01:21:43,280:test_list.py:Test Successful
+2020-02-25 01:21:43,891:boards.py:Board successfully deleted
+2020-02-25 01:21:44,307:boards.py:Board successfully created
+2020-02-25 01:21:44,583:list.py:Error in creating list
+2020-02-25 01:21:44,584:test_list.py:Test Successful
+2020-02-25 01:21:45,291:boards.py:Board successfully deleted
+2020-02-25 01:21:45,800:boards.py:Board successfully created
+2020-02-25 01:21:46,048:list.py:Error in creating list
+2020-02-25 01:21:46,048:test_list.py:Test Successful
+2020-02-25 01:21:46,694:boards.py:Board successfully deleted
+2020-02-25 01:21:47,107:boards.py:Board successfully created
+2020-02-25 01:21:47,458:list.py:List successfully created
+2020-02-25 01:21:47,778:list.py:List successfully updated
+2020-02-25 01:21:47,778:test_list.py:Test Successful
+2020-02-25 01:21:48,411:boards.py:Board successfully deleted
+2020-02-25 01:23:19,301:boards.py:Board successfully created
+2020-02-25 01:23:19,659:list.py:List successfully created
+2020-02-25 01:23:19,660:test_list.py:Test Successful
+2020-02-25 01:23:20,314:boards.py:Board successfully deleted
+2020-02-25 01:23:20,830:boards.py:Board successfully created
+2020-02-25 01:23:21,210:list.py:List successfully created
+2020-02-25 01:23:21,211:test_list.py:Test Successful
+2020-02-25 01:23:21,852:boards.py:Board successfully deleted
+2020-02-25 01:23:22,363:boards.py:Board successfully created
+2020-02-25 01:23:22,671:list.py:Error in creating list
+2020-02-25 01:23:22,671:test_list.py:Test Successful
+2020-02-25 01:23:23,391:boards.py:Board successfully deleted
+2020-02-25 01:23:23,878:boards.py:Board successfully created
+2020-02-25 01:23:24,213:list.py:Error in creating list
+2020-02-25 01:23:24,213:test_list.py:Test Successful
+2020-02-25 01:23:25,003:boards.py:Board successfully deleted
+2020-02-25 01:23:25,437:boards.py:Board successfully created
+2020-02-25 01:23:25,773:list.py:List successfully created
+2020-02-25 01:23:26,088:list.py:List successfully updated
+2020-02-25 01:23:26,088:test_list.py:Test Successful
+2020-02-25 01:23:26,719:boards.py:Board successfully deleted
+2020-02-25 01:23:27,178:boards.py:Board successfully created
+2020-02-25 01:23:27,532:list.py:List successfully created
+2020-02-25 01:23:27,803:list.py:List data successfully received
+2020-02-25 01:23:27,803:test_list.py:Test Successful
+2020-02-25 01:23:28,439:boards.py:Board successfully deleted
+2020-02-25 01:29:18,721:boards.py:Board successfully created
+2020-02-25 01:29:19,084:list.py:List successfully created
+2020-02-25 01:29:19,480:cards.py:Card successfully created
+2020-02-25 01:29:19,482:test_cards.py:Test Successful
+2020-02-25 01:29:20,083:boards.py:Board successfully deleted
+2020-02-25 01:29:20,565:boards.py:Board successfully created
+2020-02-25 01:29:20,917:list.py:List successfully created
+2020-02-25 01:29:21,383:cards.py:Card successfully created
+2020-02-25 01:29:21,385:test_cards.py:Test Successful
+2020-02-25 01:29:22,002:boards.py:Board successfully deleted
+2020-02-25 01:29:22,510:boards.py:Board successfully created
+2020-02-25 01:29:22,874:list.py:List successfully created
+2020-02-25 01:29:23,123:cards.py:Error in creating card
+2020-02-25 01:29:23,124:test_cards.py:Test Successful
+2020-02-25 01:29:23,840:boards.py:Board successfully deleted
+2020-02-25 01:33:57,867:boards.py:Board successfully created
+2020-02-25 01:33:58,245:list.py:List successfully created
+2020-02-25 01:33:58,684:cards.py:Card successfully created
+2020-02-25 01:33:58,686:test_cards.py:Test Successful
+2020-02-25 01:33:59,241:boards.py:Board successfully deleted
+2020-02-25 01:33:59,709:boards.py:Board successfully created
+2020-02-25 01:34:00,044:list.py:List successfully created
+2020-02-25 01:34:00,528:cards.py:Card successfully created
+2020-02-25 01:34:00,530:test_cards.py:Test Successful
+2020-02-25 01:34:01,252:boards.py:Board successfully deleted
+2020-02-25 01:34:01,757:boards.py:Board successfully created
+2020-02-25 01:34:02,127:list.py:List successfully created
+2020-02-25 01:34:02,361:cards.py:Error in creating card
+2020-02-25 01:34:02,361:test_cards.py:Test Successful
+2020-02-25 01:34:03,037:boards.py:Board successfully deleted
+2020-02-25 01:34:04,215:boards.py:Board successfully created
+2020-02-25 01:34:04,616:list.py:List successfully created
+2020-02-25 01:34:04,884:cards.py:Error in creating card
+2020-02-25 01:34:04,884:test_cards.py:Test Successful
+2020-02-25 01:34:05,536:boards.py:Board successfully deleted
+2020-02-25 01:34:06,467:boards.py:Board successfully created
+2020-02-25 01:34:06,829:list.py:List successfully created
+2020-02-25 01:34:07,287:cards.py:Card successfully created
+2020-02-25 01:34:07,595:cards.py:Card data successfully received
+2020-02-25 01:34:07,595:test_cards.py:Test Successful
+2020-02-25 01:34:08,270:boards.py:Board successfully deleted
+2020-02-25 01:34:08,726:boards.py:Board successfully created
+2020-02-25 01:34:09,082:list.py:List successfully created
+2020-02-25 01:34:09,539:cards.py:Card successfully created
+2020-02-25 01:34:09,855:cards.py:Card data successfully received
+2020-02-25 01:34:09,856:test_cards.py:Test Successful
+2020-02-25 01:34:10,572:boards.py:Board successfully deleted
+2020-02-25 01:34:11,076:boards.py:Board successfully created
+2020-02-25 01:34:11,423:list.py:List successfully created
+2020-02-25 01:34:11,893:cards.py:Card successfully created
+2020-02-25 01:34:12,270:cards.py:Card successfully updated
+2020-02-25 01:34:12,270:test_cards.py:Test Successful
+2020-02-25 01:34:12,919:boards.py:Board successfully deleted
+2020-02-25 01:34:13,534:boards.py:Board successfully created
+2020-02-25 01:34:13,901:list.py:List successfully created
+2020-02-25 01:34:14,296:cards.py:Card successfully created
+2020-02-25 01:34:14,762:cards.py:Card successfully deleted
+2020-02-25 01:34:14,762:test_cards.py:Test Successful
+2020-02-25 01:34:15,392:boards.py:Board successfully deleted
+2020-02-25 01:34:15,794:boards.py:Board successfully created
+2020-02-25 01:34:16,298:list.py:List successfully created
+2020-02-25 01:34:16,808:cards.py:Card successfully created
+2020-02-25 01:34:18,039:cards.py:Error in deleting card
+2020-02-25 01:34:18,039:test_cards.py:Test Successful
+2020-02-25 01:34:18,767:boards.py:Board successfully deleted
+2020-02-25 01:48:13,740:boards.py:Board successfully created
+2020-02-25 01:48:14,136:member.py:Board member successfully created
+2020-02-25 01:48:14,138:test_member.py:Test Successful
+2020-02-25 01:48:14,902:boards.py:Board successfully deleted
+2020-02-25 01:48:15,379:boards.py:Board successfully created
+2020-02-25 01:48:15,771:member.py:Board member successfully created
+2020-02-25 01:48:15,771:test_member.py:Test Successful
+2020-02-25 01:48:16,504:boards.py:Board successfully deleted
+2020-02-25 01:48:17,015:boards.py:Board successfully created
+2020-02-25 01:48:17,318:member.py:Board member creation failed
+2020-02-25 01:48:17,319:test_member.py:Test Successful
+2020-02-25 01:48:17,979:boards.py:Board successfully deleted
+2020-02-25 01:48:18,551:boards.py:Board successfully created
+2020-02-25 01:48:18,853:member.py:Board member creation failed
+2020-02-25 01:48:18,853:test_member.py:Test Successful
+2020-02-25 01:48:19,469:boards.py:Board successfully deleted
+2020-02-25 01:48:20,083:boards.py:Board successfully created
+2020-02-25 01:48:20,465:member.py:Board member successfully created
+2020-02-25 01:48:20,744:member.py:Board member data successfully received
+2020-02-25 01:48:20,744:test_member.py:Test Successful
+2020-02-25 01:48:21,549:boards.py:Board successfully deleted
+2020-02-25 01:48:22,961:boards.py:Board successfully created
+2020-02-25 01:48:23,462:member.py:Board member successfully created
+2020-02-25 01:48:23,773:member.py:Board member data successfully received
+2020-02-25 01:48:23,774:test_member.py:Test Successful
+2020-02-25 01:48:24,546:boards.py:Board successfully deleted
+2020-02-25 01:48:24,997:boards.py:Board successfully created
+2020-02-25 01:48:25,510:member.py:Board member successfully created
+2020-02-25 01:48:25,787:member.py:Board member data not received
+2020-02-25 01:48:26,546:boards.py:Board successfully deleted
+2020-02-25 01:48:26,938:boards.py:Board successfully created
+2020-02-25 01:48:27,350:member.py:Board member successfully created
+2020-02-25 01:48:27,619:member.py:Board member notification received
+2020-02-25 01:48:27,619:test_member.py:Test Successful
+2020-02-25 01:48:28,444:boards.py:Board successfully deleted
+2020-02-25 01:50:03,816:boards.py:Board successfully created
+2020-02-25 01:50:04,190:member.py:Board member successfully created
+2020-02-25 01:50:04,191:test_member.py:Test Successful
+2020-02-25 01:50:04,981:boards.py:Board successfully deleted
+2020-02-25 01:50:05,462:boards.py:Board successfully created
+2020-02-25 01:50:05,862:member.py:Board member successfully created
+2020-02-25 01:50:05,863:test_member.py:Test Successful
+2020-02-25 01:50:06,680:boards.py:Board successfully deleted
+2020-02-25 01:50:07,194:boards.py:Board successfully created
+2020-02-25 01:50:07,511:member.py:Board member creation failed
+2020-02-25 01:50:07,511:test_member.py:Test Successful
+2020-02-25 01:50:08,336:boards.py:Board successfully deleted
+2020-02-25 01:50:08,831:boards.py:Board successfully created
+2020-02-25 01:50:09,141:member.py:Board member creation failed
+2020-02-25 01:50:09,141:test_member.py:Test Successful
+2020-02-25 01:50:09,814:boards.py:Board successfully deleted
+2020-02-25 01:50:10,266:boards.py:Board successfully created
+2020-02-25 01:50:10,778:member.py:Board member successfully created
+2020-02-25 01:50:11,059:member.py:Board member data successfully received
+2020-02-25 01:50:11,059:test_member.py:Test Successful
+2020-02-25 01:50:11,878:boards.py:Board successfully deleted
+2020-02-25 01:50:12,417:boards.py:Board successfully created
+2020-02-25 01:50:12,812:member.py:Board member successfully created
+2020-02-25 01:50:13,091:member.py:Board member data successfully received
+2020-02-25 01:50:13,092:test_member.py:Test Successful
+2020-02-25 01:50:13,997:boards.py:Board successfully deleted
+2020-02-25 01:50:14,571:boards.py:Board successfully created
+2020-02-25 01:50:14,952:member.py:Board member successfully created
+2020-02-25 01:50:15,282:member.py:Board member data not received
+2020-02-25 01:50:16,158:boards.py:Board successfully deleted
+2020-02-25 01:50:16,564:boards.py:Board successfully created
+2020-02-25 01:50:16,937:member.py:Board member successfully created
+2020-02-25 01:50:17,198:member.py:Board member notification received
+2020-02-25 01:50:17,198:test_member.py:Test Successful
+2020-02-25 01:50:18,311:boards.py:Board successfully deleted
+2020-02-25 01:53:13,263:boards.py:Board successfully created
+2020-02-25 01:53:13,662:member.py:Board member successfully created
+2020-02-25 01:53:13,664:test_member.py:Test Successful
+2020-02-25 01:53:14,397:boards.py:Board successfully deleted
+2020-02-25 01:53:14,898:boards.py:Board successfully created
+2020-02-25 01:53:15,297:member.py:Board member successfully created
+2020-02-25 01:53:15,298:test_member.py:Test Successful
+2020-02-25 01:53:16,082:boards.py:Board successfully deleted
+2020-02-25 01:53:16,534:boards.py:Board successfully created
+2020-02-25 01:53:16,846:member.py:Board member creation failed
+2020-02-25 01:53:16,846:test_member.py:Test Successful
+2020-02-25 01:53:17,762:boards.py:Board successfully deleted
+2020-02-25 01:53:18,161:boards.py:Board successfully created
+2020-02-25 01:53:18,485:member.py:Board member creation failed
+2020-02-25 01:53:18,486:test_member.py:Test Successful
+2020-02-25 01:53:19,130:boards.py:Board successfully deleted
+2020-02-25 01:53:19,613:boards.py:Board successfully created
+2020-02-25 01:53:20,022:member.py:Board member successfully created
+2020-02-25 01:53:20,312:member.py:Board member data successfully received
+2020-02-25 01:53:20,312:test_member.py:Test Successful
+2020-02-25 01:53:21,142:boards.py:Board successfully deleted
+2020-02-25 01:53:21,584:boards.py:Board successfully created
+2020-02-25 01:53:22,013:member.py:Board member successfully created
+2020-02-25 01:53:22,305:member.py:Board member data successfully received
+2020-02-25 01:53:22,306:test_member.py:Test Successful
+2020-02-25 01:53:23,094:boards.py:Board successfully deleted
+2020-02-25 01:53:23,606:boards.py:Board successfully created
+2020-02-25 01:53:24,259:member.py:Board member successfully created
+2020-02-25 01:53:24,623:member.py:Board member data successfully received
+2020-02-25 01:53:25,446:boards.py:Board successfully deleted
+2020-02-25 01:53:25,959:boards.py:Board successfully created
+2020-02-25 01:53:26,471:member.py:Board member successfully created
+2020-02-25 01:53:26,780:member.py:Board member notification received
+2020-02-25 01:53:26,780:test_member.py:Test Successful
+2020-02-25 01:53:27,570:boards.py:Board successfully deleted
+2020-02-25 01:54:23,606:boards.py:Board successfully created
+2020-02-25 01:54:24,252:member.py:Board member successfully created
+2020-02-25 01:54:24,254:test_member.py:Test Successful
+2020-02-25 01:54:24,994:boards.py:Board successfully deleted
+2020-02-25 01:54:25,382:boards.py:Board successfully created
+2020-02-25 01:54:25,785:member.py:Board member successfully created
+2020-02-25 01:54:25,786:test_member.py:Test Successful
+2020-02-25 01:54:26,461:boards.py:Board successfully deleted
+2020-02-25 01:54:26,859:boards.py:Board successfully created
+2020-02-25 01:54:27,191:member.py:Board member creation failed
+2020-02-25 01:54:27,192:test_member.py:Test Successful
+2020-02-25 01:54:28,015:boards.py:Board successfully deleted
+2020-02-25 01:54:28,529:boards.py:Board successfully created
+2020-02-25 01:54:28,834:member.py:Board member creation failed
+2020-02-25 01:54:28,834:test_member.py:Test Successful
+2020-02-25 01:54:29,464:boards.py:Board successfully deleted
+2020-02-25 01:54:29,966:boards.py:Board successfully created
+2020-02-25 01:54:30,370:member.py:Board member successfully created
+2020-02-25 01:54:30,776:member.py:Board member data successfully received
+2020-02-25 01:54:30,776:test_member.py:Test Successful
+2020-02-25 01:54:31,660:boards.py:Board successfully deleted
+2020-02-25 01:54:32,106:boards.py:Board successfully created
+2020-02-25 01:54:32,521:member.py:Board member successfully created
+2020-02-25 01:54:32,848:member.py:Board member data successfully received
+2020-02-25 01:54:32,849:test_member.py:Test Successful
+2020-02-25 01:54:33,642:boards.py:Board successfully deleted
+2020-02-25 01:54:34,153:boards.py:Board successfully created
+2020-02-25 01:54:34,533:member.py:Board member successfully created
+2020-02-25 01:54:34,817:member.py:Board member data successfully received
+2020-02-25 01:54:35,637:boards.py:Board successfully deleted
+2020-02-25 01:54:36,080:boards.py:Board successfully created
+2020-02-25 01:54:36,474:member.py:Board member successfully created
+2020-02-25 01:54:36,739:member.py:Board member notification received
+2020-02-25 01:54:36,739:test_member.py:Test Successful
+2020-02-25 01:54:37,542:boards.py:Board successfully deleted
+2020-02-25 01:55:30,460:boards.py:Board successfully created
+2020-02-25 01:55:30,859:member.py:Board member successfully created
+2020-02-25 01:55:30,860:test_member.py:Test Successful
+2020-02-25 01:55:31,810:boards.py:Board successfully deleted
+2020-02-25 01:55:32,329:boards.py:Board successfully created
+2020-02-25 01:55:32,738:member.py:Board member successfully created
+2020-02-25 01:55:32,739:test_member.py:Test Successful
+2020-02-25 01:55:33,469:boards.py:Board successfully deleted
+2020-02-25 01:55:33,886:boards.py:Board successfully created
+2020-02-25 01:55:34,127:member.py:Board member creation failed
+2020-02-25 01:55:34,128:test_member.py:Test Successful
+2020-02-25 01:55:34,803:boards.py:Board successfully deleted
+2020-02-25 01:55:35,292:boards.py:Board successfully created
+2020-02-25 01:55:35,593:member.py:Board member creation failed
+2020-02-25 01:55:35,593:test_member.py:Test Successful
+2020-02-25 01:55:36,417:boards.py:Board successfully deleted
+2020-02-25 01:55:36,827:boards.py:Board successfully created
+2020-02-25 01:55:37,223:member.py:Board member successfully created
+2020-02-25 01:55:37,497:member.py:Board member data successfully received
+2020-02-25 01:55:37,497:test_member.py:Test Successful
+2020-02-25 01:55:38,261:boards.py:Board successfully deleted
+2020-02-25 01:55:38,652:boards.py:Board successfully created
+2020-02-25 01:55:39,061:member.py:Board member successfully created
+2020-02-25 01:55:39,335:member.py:Board member data successfully received
+2020-02-25 01:55:39,335:test_member.py:Test Successful
+2020-02-25 01:55:40,231:boards.py:Board successfully deleted
+2020-02-25 01:55:40,731:boards.py:Board successfully created
+2020-02-25 01:55:41,245:member.py:Board member successfully created
+2020-02-25 01:55:41,636:member.py:Board member data successfully received
+2020-02-25 01:55:42,450:boards.py:Board successfully deleted
+2020-02-25 01:55:42,835:boards.py:Board successfully created
+2020-02-25 01:55:43,405:member.py:Board member successfully created
+2020-02-25 01:55:43,787:member.py:Board member notification received
+2020-02-25 01:55:43,787:test_member.py:Test Successful
+2020-02-25 01:55:44,513:boards.py:Board successfully deleted
+2020-02-25 01:56:41,643:boards.py:Board successfully created
+2020-02-25 01:56:42,036:member.py:Board member successfully created
+2020-02-25 01:56:42,037:test_member.py:Test Successful
+2020-02-25 01:56:42,742:boards.py:Board successfully deleted
+2020-02-25 01:56:43,180:boards.py:Board successfully created
+2020-02-25 01:56:43,566:member.py:Board member successfully created
+2020-02-25 01:56:43,567:test_member.py:Test Successful
+2020-02-25 01:56:44,335:boards.py:Board successfully deleted
+2020-02-25 01:56:44,822:boards.py:Board successfully created
+2020-02-25 01:56:45,125:member.py:Board member creation failed
+2020-02-25 01:56:45,125:test_member.py:Test Successful
+2020-02-25 01:56:45,752:boards.py:Board successfully deleted
+2020-02-25 01:56:46,252:boards.py:Board successfully created
+2020-02-25 01:56:46,565:member.py:Board member creation failed
+2020-02-25 01:56:46,566:test_member.py:Test Successful
+2020-02-25 01:56:47,380:boards.py:Board successfully deleted
+2020-02-25 01:56:47,895:boards.py:Board successfully created
+2020-02-25 01:56:48,319:member.py:Board member successfully created
+2020-02-25 01:56:48,598:member.py:Board member data successfully received
+2020-02-25 01:56:48,598:test_member.py:Test Successful
+2020-02-25 01:56:49,318:boards.py:Board successfully deleted
+2020-02-25 01:56:49,733:boards.py:Board successfully created
+2020-02-25 01:56:50,104:member.py:Board member successfully created
+2020-02-25 01:56:50,400:member.py:Board member data successfully received
+2020-02-25 01:56:50,400:test_member.py:Test Successful
+2020-02-25 01:56:51,156:boards.py:Board successfully deleted
+2020-02-25 01:56:51,678:boards.py:Board successfully created
+2020-02-25 01:56:52,190:member.py:Board member successfully created
+2020-02-25 01:56:52,600:member.py:Board member data successfully received
+2020-02-25 01:56:52,601:test_member.py:Test Successful
+2020-02-25 01:56:53,329:boards.py:Board successfully deleted
+2020-02-25 01:56:53,830:boards.py:Board successfully created
+2020-02-25 01:56:54,206:member.py:Board member successfully created
+2020-02-25 01:56:54,470:member.py:Board member notification received
+2020-02-25 01:56:54,471:test_member.py:Test Successful
+2020-02-25 01:56:55,195:boards.py:Board successfully deleted
+2020-02-25 02:02:52,852:boards.py:Board successfully created
+2020-02-25 02:02:53,185:label.py:creating label successful
+2020-02-25 02:02:53,185:test_labels.py:Test Successful
+2020-02-25 02:02:53,826:boards.py:Board successfully deleted
+2020-02-25 02:02:54,345:boards.py:Board successfully created
+2020-02-25 02:02:54,698:label.py:creating label successful
+2020-02-25 02:02:55,000:label.py:creating label successful
+2020-02-25 02:02:55,000:test_labels.py:Test Successful
+2020-02-25 02:02:55,974:boards.py:Board successfully deleted
+2020-02-25 02:02:56,364:boards.py:Board successfully created
+2020-02-25 02:02:56,714:label.py:creating label successful
+2020-02-25 02:02:56,991:label.py:creating label successful
+2020-02-25 02:02:56,992:test_labels.py:Test Successful
+2020-02-25 02:02:57,601:boards.py:Board successfully deleted
+2020-02-25 02:02:57,991:boards.py:Board successfully created
+2020-02-25 02:02:58,339:label.py:creating label successful
+2020-02-25 02:02:58,659:label.py:creating label successful
+2020-02-25 02:02:58,660:test_labels.py:Test Successful
+2020-02-25 02:02:59,260:boards.py:Board successfully deleted
+2020-02-25 02:03:12,923:boards.py:Board successfully created
+2020-02-25 02:03:12,925:test_boards.py:Test Successful
+2020-02-25 02:03:13,584:boards.py:Board successfully deleted
+2020-02-25 02:03:13,942:boards.py:Error in creating board
+2020-02-25 02:03:13,942:test_boards.py:Test Successful
+2020-02-25 02:03:14,459:boards.py:Board successfully created
+2020-02-25 02:03:14,809:boards.py:Board successfully updated
+2020-02-25 02:03:14,810:test_boards.py:Test Successful
+2020-02-25 02:03:15,424:boards.py:Board successfully deleted
+2020-02-25 02:03:15,839:boards.py:Board successfully created
+2020-02-25 02:03:16,200:boards.py:Board successfully updated
+2020-02-25 02:03:16,201:test_boards.py:Test Successful
+2020-02-25 02:03:16,846:boards.py:Board successfully deleted
+2020-02-25 02:03:17,300:boards.py:Board successfully created
+2020-02-25 02:03:17,634:boards.py:Board data successfully received
+2020-02-25 02:03:17,635:test_boards.py:Test Successful
+2020-02-25 02:03:18,286:boards.py:Board successfully deleted
+2020-02-25 02:03:18,694:boards.py:Board successfully created
+2020-02-25 02:03:19,032:boards.py:Board data successfully received
+2020-02-25 02:03:19,033:test_boards.py:Test Successful
+2020-02-25 02:03:19,635:boards.py:Board successfully deleted
+2020-02-25 02:03:20,055:boards.py:Board successfully created
+2020-02-25 02:03:20,707:boards.py:Board successfully deleted
+2020-02-25 02:03:20,707:test_boards.py:Test Successful
+2020-02-25 02:03:20,945:boards.py:Error in deleting board
+2020-02-25 02:03:21,357:boards.py:Board successfully created
+2020-02-25 02:03:21,732:list.py:List successfully created
+2020-02-25 02:03:22,236:cards.py:Card successfully created
+2020-02-25 02:03:22,238:test_cards.py:Test Successful
+2020-02-25 02:03:22,883:boards.py:Board successfully deleted
+2020-02-25 02:03:23,369:boards.py:Board successfully created
+2020-02-25 02:03:23,716:list.py:List successfully created
+2020-02-25 02:03:24,186:cards.py:Card successfully created
+2020-02-25 02:03:24,188:test_cards.py:Test Successful
+2020-02-25 02:03:24,815:boards.py:Board successfully deleted
+2020-02-25 02:03:25,313:boards.py:Board successfully created
+2020-02-25 02:03:25,674:list.py:List successfully created
+2020-02-25 02:03:25,925:cards.py:Error in creating card
+2020-02-25 02:03:25,925:test_cards.py:Test Successful
+2020-02-25 02:03:26,611:boards.py:Board successfully deleted
+2020-02-25 02:03:27,693:boards.py:Board successfully created
+2020-02-25 02:03:28,047:list.py:List successfully created
+2020-02-25 02:03:28,315:cards.py:Error in creating card
+2020-02-25 02:03:28,316:test_cards.py:Test Successful
+2020-02-25 02:03:28,956:boards.py:Board successfully deleted
+2020-02-25 02:03:29,410:boards.py:Board successfully created
+2020-02-25 02:03:29,775:list.py:List successfully created
+2020-02-25 02:03:30,330:cards.py:Card successfully created
+2020-02-25 02:03:30,637:cards.py:Card data successfully received
+2020-02-25 02:03:30,637:test_cards.py:Test Successful
+2020-02-25 02:03:31,266:boards.py:Board successfully deleted
+2020-02-25 02:03:31,701:boards.py:Board successfully created
+2020-02-25 02:03:32,053:list.py:List successfully created
+2020-02-25 02:03:32,586:cards.py:Card successfully created
+2020-02-25 02:03:32,879:cards.py:Card data successfully received
+2020-02-25 02:03:32,880:test_cards.py:Test Successful
+2020-02-25 02:03:33,600:boards.py:Board successfully deleted
+2020-02-25 02:03:34,524:boards.py:Board successfully created
+2020-02-25 02:03:34,879:list.py:List successfully created
+2020-02-25 02:03:35,350:cards.py:Card successfully created
+2020-02-25 02:03:35,757:cards.py:Card successfully updated
+2020-02-25 02:03:35,757:test_cards.py:Test Successful
+2020-02-25 02:03:36,419:boards.py:Board successfully deleted
+2020-02-25 02:03:36,882:boards.py:Board successfully created
+2020-02-25 02:03:37,239:list.py:List successfully created
+2020-02-25 02:03:37,659:cards.py:Card successfully created
+2020-02-25 02:03:38,108:cards.py:Card successfully deleted
+2020-02-25 02:03:38,108:test_cards.py:Test Successful
+2020-02-25 02:03:38,727:boards.py:Board successfully deleted
+2020-02-25 02:03:39,138:boards.py:Board successfully created
+2020-02-25 02:03:39,498:list.py:List successfully created
+2020-02-25 02:03:40,061:cards.py:Card successfully created
+2020-02-25 02:03:40,365:cards.py:Error in deleting card
+2020-02-25 02:03:40,365:test_cards.py:Test Successful
+2020-02-25 02:03:41,113:boards.py:Board successfully deleted
+2020-02-25 02:03:41,512:boards.py:Board successfully created
+2020-02-25 02:03:41,872:label.py:creating label successful
+2020-02-25 02:03:41,873:test_labels.py:Test Successful
+2020-02-25 02:03:42,513:boards.py:Board successfully deleted
+2020-02-25 02:03:42,926:boards.py:Board successfully created
+2020-02-25 02:03:43,304:label.py:creating label successful
+2020-02-25 02:03:43,589:label.py:creating label successful
+2020-02-25 02:03:43,590:test_labels.py:Test Successful
+2020-02-25 02:03:44,271:boards.py:Board successfully deleted
+2020-02-25 02:03:44,765:boards.py:Board successfully created
+2020-02-25 02:03:45,111:label.py:creating label successful
+2020-02-25 02:03:45,423:label.py:creating label successful
+2020-02-25 02:03:45,424:test_labels.py:Test Successful
+2020-02-25 02:03:46,032:boards.py:Board successfully deleted
+2020-02-25 02:03:46,717:boards.py:Board successfully created
+2020-02-25 02:03:47,076:label.py:creating label successful
+2020-02-25 02:03:47,397:label.py:creating label successful
+2020-02-25 02:03:47,397:test_labels.py:Test Successful
+2020-02-25 02:03:47,996:boards.py:Board successfully deleted
+2020-02-25 02:03:48,455:boards.py:Board successfully created
+2020-02-25 02:03:48,839:list.py:List successfully created
+2020-02-25 02:03:48,840:test_list.py:Test Successful
+2020-02-25 02:03:49,597:boards.py:Board successfully deleted
+2020-02-25 02:03:50,014:boards.py:Board successfully created
+2020-02-25 02:03:50,391:list.py:List successfully created
+2020-02-25 02:03:50,393:test_list.py:Test Successful
+2020-02-25 02:03:51,020:boards.py:Board successfully deleted
+2020-02-25 02:03:51,523:boards.py:Board successfully created
+2020-02-25 02:03:51,829:list.py:Error in creating list
+2020-02-25 02:03:51,830:test_list.py:Test Successful
+2020-02-25 02:03:52,653:boards.py:Board successfully deleted
+2020-02-25 02:03:53,162:boards.py:Board successfully created
+2020-02-25 02:03:53,474:list.py:Error in creating list
+2020-02-25 02:03:53,474:test_list.py:Test Successful
+2020-02-25 02:03:54,226:boards.py:Board successfully deleted
+2020-02-25 02:03:55,209:boards.py:Board successfully created
+2020-02-25 02:03:55,588:list.py:List successfully created
+2020-02-25 02:03:55,915:list.py:List successfully updated
+2020-02-25 02:03:55,915:test_list.py:Test Successful
+2020-02-25 02:03:56,544:boards.py:Board successfully deleted
+2020-02-25 02:03:56,966:boards.py:Board successfully created
+2020-02-25 02:03:57,320:list.py:List successfully created
+2020-02-25 02:03:57,596:list.py:List data successfully received
+2020-02-25 02:03:57,596:test_list.py:Test Successful
+2020-02-25 02:03:58,197:boards.py:Board successfully deleted
+2020-02-25 02:03:58,693:boards.py:Board successfully created
+2020-02-25 02:03:59,127:member.py:Board member successfully created
+2020-02-25 02:03:59,129:test_member.py:Test Successful
+2020-02-25 02:03:59,861:boards.py:Board successfully deleted
+2020-02-25 02:04:00,328:boards.py:Board successfully created
+2020-02-25 02:04:00,717:member.py:Board member successfully created
+2020-02-25 02:04:00,718:test_member.py:Test Successful
+2020-02-25 02:04:01,536:boards.py:Board successfully deleted
+2020-02-25 02:04:01,972:boards.py:Board successfully created
+2020-02-25 02:04:02,282:member.py:Board member creation failed
+2020-02-25 02:04:02,283:test_member.py:Test Successful
+2020-02-25 02:04:02,975:boards.py:Board successfully deleted
+2020-02-25 02:04:03,384:boards.py:Board successfully created
+2020-02-25 02:04:03,714:member.py:Board member creation failed
+2020-02-25 02:04:03,714:test_member.py:Test Successful
+2020-02-25 02:04:04,352:boards.py:Board successfully deleted
+2020-02-25 02:04:04,840:boards.py:Board successfully created
+2020-02-25 02:04:05,222:member.py:Board member successfully created
+2020-02-25 02:04:05,511:member.py:Board member data successfully received
+2020-02-25 02:04:05,511:test_member.py:Test Successful
+2020-02-25 02:04:06,401:boards.py:Board successfully deleted
+2020-02-25 02:04:06,880:boards.py:Board successfully created
+2020-02-25 02:04:07,269:member.py:Board member successfully created
+2020-02-25 02:04:07,600:member.py:Board member data successfully received
+2020-02-25 02:04:07,600:test_member.py:Test Successful
+2020-02-25 02:04:08,394:boards.py:Board successfully deleted
+2020-02-25 02:04:08,929:boards.py:Board successfully created
+2020-02-25 02:04:09,301:member.py:Board member successfully created
+2020-02-25 02:04:09,585:member.py:Board member data successfully received
+2020-02-25 02:04:09,586:test_member.py:Test Successful
+2020-02-25 02:04:10,395:boards.py:Board successfully deleted
+2020-02-25 02:04:10,877:boards.py:Board successfully created
+2020-02-25 02:04:11,253:member.py:Board member successfully created
+2020-02-25 02:04:11,531:member.py:Board member notification received
+2020-02-25 02:04:11,531:test_member.py:Test Successful
+2020-02-25 02:04:12,420:boards.py:Board successfully deleted
+2020-02-25 02:07:51,549:boards.py:Error in creating board
+2020-02-25 02:07:51,550:test_boards.py:Test Successful
+2020-02-25 02:18:15,065:boards.py:Error in creating board
+2020-02-25 02:18:15,065:test_boards.py:Test Successful
+2020-02-25 02:19:34,016:boards.py:Board successfully created
+2020-02-25 02:19:34,322:boards.py:Error in updating board
+2020-02-25 02:19:34,324:test_boards.py:Assertion error
+Traceback (most recent call last):
+  File "/home/rohit/major_api_assignment/testcases/test_boards.py", line 12, in compare_values
+    assert x == y
+AssertionError: assert 404 == 200
+2020-02-25 02:19:35,145:boards.py:Board successfully deleted
+2020-02-25 02:20:34,944:boards.py:Board successfully created
+2020-02-25 02:20:34,946:test_boards.py:Test Successful
+2020-02-25 02:20:35,865:boards.py:Board successfully deleted
+2020-02-25 02:20:36,135:boards.py:Error in creating board
+2020-02-25 02:20:36,136:test_boards.py:Test Successful
+2020-02-25 02:20:36,683:boards.py:Board successfully created
+2020-02-25 02:20:37,025:boards.py:Board successfully updated
+2020-02-25 02:20:37,025:test_boards.py:Test Successful
+2020-02-25 02:20:37,651:boards.py:Board successfully deleted
+2020-02-25 02:20:38,124:boards.py:Board successfully created
+2020-02-25 02:20:38,454:boards.py:Board successfully updated
+2020-02-25 02:20:38,454:test_boards.py:Test Successful
+2020-02-25 02:20:39,078:boards.py:Board successfully deleted
+2020-02-25 02:20:41,788:boards.py:Board successfully created
+2020-02-25 02:20:42,076:boards.py:Board data successfully received
+2020-02-25 02:20:42,076:test_boards.py:Test Successful
+2020-02-25 02:20:42,651:boards.py:Board successfully deleted
+2020-02-25 02:20:43,134:boards.py:Board successfully created
+2020-02-25 02:20:43,446:boards.py:Board data successfully received
+2020-02-25 02:20:43,446:test_boards.py:Test Successful
+2020-02-25 02:20:44,054:boards.py:Board successfully deleted
+2020-02-25 02:20:44,573:boards.py:Board successfully created
+2020-02-25 02:20:45,214:boards.py:Board successfully deleted
+2020-02-25 02:20:45,214:test_boards.py:Test Successful
+2020-02-25 02:20:45,487:boards.py:Error in deleting board
+2020-02-25 02:21:44,789:boards.py:Board successfully created
+2020-02-25 02:21:44,791:test_boards.py:Test Successful
+2020-02-25 02:21:45,656:boards.py:Board successfully deleted
+2020-02-25 02:21:46,027:boards.py:Error in creating board
+2020-02-25 02:21:46,028:test_boards.py:Test Successful
+2020-02-25 02:21:46,526:boards.py:Board successfully created
+2020-02-25 02:21:46,871:boards.py:Board successfully updated
+2020-02-25 02:21:46,871:test_boards.py:Test Successful
+2020-02-25 02:21:47,476:boards.py:Board successfully deleted
+2020-02-25 02:21:47,956:boards.py:Board successfully created
+2020-02-25 02:21:48,354:boards.py:Board successfully updated
+2020-02-25 02:21:48,354:test_boards.py:Test Successful
+2020-02-25 02:21:48,981:boards.py:Board successfully deleted
+2020-02-25 02:21:49,493:boards.py:Board successfully created
+2020-02-25 02:21:49,797:boards.py:Board data successfully received
+2020-02-25 02:21:49,798:test_boards.py:Test Successful
+2020-02-25 02:21:50,489:boards.py:Board successfully deleted
+2020-02-25 02:21:50,930:boards.py:Board successfully created
+2020-02-25 02:21:51,236:boards.py:Board data successfully received
+2020-02-25 02:21:51,237:test_boards.py:Test Successful
+2020-02-25 02:21:51,904:boards.py:Board successfully deleted
+2020-02-25 02:21:52,348:boards.py:Board successfully created
+2020-02-25 02:21:53,279:boards.py:Board successfully deleted
+2020-02-25 02:21:53,279:test_boards.py:Test Successful
+2020-02-25 02:21:53,635:boards.py:Error in deleting board
+2020-02-25 08:37:50,097:boards.py:Board successfully created
+2020-02-25 08:37:50,098:test_boards.py:Test Successful
+2020-02-25 08:37:51,039:boards.py:Board successfully deleted
+2020-02-25 08:37:51,674:boards.py:Error in creating board
+2020-02-25 08:37:51,674:test_boards.py:Test Successful
+2020-02-25 08:37:52,253:boards.py:Board successfully created
+2020-02-25 08:37:52,602:boards.py:Board successfully updated
+2020-02-25 08:37:52,603:test_boards.py:Test Successful
+2020-02-25 08:37:53,223:boards.py:Board successfully deleted
+2020-02-25 08:37:53,772:boards.py:Board successfully created
+2020-02-25 08:37:54,181:boards.py:Board successfully updated
+2020-02-25 08:37:54,183:test_boards.py:Test Successful
+2020-02-25 08:37:54,896:boards.py:Board successfully deleted
+2020-02-25 08:37:55,411:boards.py:Board successfully created
+2020-02-25 08:37:55,720:boards.py:Board data successfully received
+2020-02-25 08:37:55,720:test_boards.py:Test Successful
+2020-02-25 08:37:56,351:boards.py:Board successfully deleted
+2020-02-25 08:37:56,807:boards.py:Board successfully created
+2020-02-25 08:37:57,271:boards.py:Board data successfully received
+2020-02-25 08:37:57,272:test_boards.py:Test Successful
+2020-02-25 08:37:57,915:boards.py:Board successfully deleted
+2020-02-25 08:37:58,290:boards.py:Board successfully created
+2020-02-25 08:37:58,916:boards.py:Board successfully deleted
+2020-02-25 08:37:58,917:test_boards.py:Test Successful
+2020-02-25 08:37:59,315:boards.py:Error in deleting board
+2020-02-25 08:46:14,433:boards.py:Board successfully created
+2020-02-25 08:46:14,435:test_boards.py:Test Successful
+2020-02-25 08:46:16,095:boards.py:Board successfully deleted
+2020-02-25 08:46:16,725:boards.py:Error in creating board
+2020-02-25 08:46:16,726:test_boards.py:Test Successful
+2020-02-25 08:46:17,285:boards.py:Board successfully created
+2020-02-25 08:46:17,697:boards.py:Board successfully updated
+2020-02-25 08:46:17,697:test_boards.py:Test Successful
+2020-02-25 08:46:18,308:boards.py:Board successfully deleted
+2020-02-25 08:46:18,739:boards.py:Board successfully created
+2020-02-25 08:46:19,123:boards.py:Board successfully updated
+2020-02-25 08:46:19,123:test_boards.py:Test Successful
+2020-02-25 08:46:19,873:boards.py:Board successfully deleted
+2020-02-25 08:46:20,352:boards.py:Board successfully created
+2020-02-25 08:46:20,662:boards.py:Board data successfully received
+2020-02-25 08:46:20,662:test_boards.py:Test Successful
+2020-02-25 08:46:21,273:boards.py:Board successfully deleted
+2020-02-25 08:46:21,788:boards.py:Board successfully created
+2020-02-25 08:46:22,094:boards.py:Board data successfully received
+2020-02-25 08:46:22,095:test_boards.py:Test Successful
+2020-02-25 08:46:22,732:boards.py:Board successfully deleted
+2020-02-25 08:46:23,218:boards.py:Board successfully created
+2020-02-25 08:46:23,832:boards.py:Board successfully deleted
+2020-02-25 08:46:23,832:test_boards.py:Test Successful
+2020-02-25 08:46:24,086:boards.py:Error in deleting board
+2020-02-25 08:54:33,628:boards.py:Board successfully created
+2020-02-25 08:54:33,630:test_boards.py:Test Successful
+2020-02-25 08:54:34,300:boards.py:Board successfully deleted
+2020-02-25 08:54:34,880:boards.py:Error in creating board
+2020-02-25 08:54:34,880:test_boards.py:Test Successful
+2020-02-25 08:54:35,590:boards.py:Board successfully created
+2020-02-25 08:54:35,945:boards.py:Board successfully updated
+2020-02-25 08:54:35,946:test_boards.py:Test Successful
+2020-02-25 08:54:36,559:boards.py:Board successfully deleted
+2020-02-25 08:54:37,289:boards.py:Board successfully created
+2020-02-25 08:54:37,738:boards.py:Board successfully updated
+2020-02-25 08:54:37,739:test_boards.py:Test Successful
+2020-02-25 08:54:38,367:boards.py:Board successfully deleted
+2020-02-25 08:54:39,712:boards.py:Board successfully created
+2020-02-25 08:54:40,087:boards.py:Board data successfully received
+2020-02-25 08:54:40,088:test_boards.py:Test Successful
+2020-02-25 08:54:40,740:boards.py:Board successfully deleted
+2020-02-25 08:54:41,209:boards.py:Board successfully created
+2020-02-25 08:54:41,626:boards.py:Board data successfully received
+2020-02-25 08:54:41,626:test_boards.py:Test Successful
+2020-02-25 08:54:42,656:boards.py:Board successfully deleted
+2020-02-25 08:54:43,296:boards.py:Board successfully created
+2020-02-25 08:54:43,951:boards.py:Board successfully deleted
+2020-02-25 08:54:43,951:test_boards.py:Test Successful
+2020-02-25 08:54:44,283:boards.py:Error in deleting board
+2020-02-25 08:57:18,870:boards.py:Board successfully created
+2020-02-25 08:57:18,872:test_boards.py:Test Successful
+2020-02-25 08:57:19,513:boards.py:Board successfully deleted
+2020-02-25 08:57:19,806:boards.py:Error in creating board
+2020-02-25 08:57:19,806:test_boards.py:Test Successful
+2020-02-25 08:57:20,332:boards.py:Board successfully created
+2020-02-25 08:57:20,745:boards.py:Board successfully updated
+2020-02-25 08:57:20,745:test_boards.py:Test Successful
+2020-02-25 08:57:21,442:boards.py:Board successfully deleted
+2020-02-25 08:57:22,172:boards.py:Board successfully created
+2020-02-25 08:57:22,582:boards.py:Board successfully updated
+2020-02-25 08:57:22,583:test_boards.py:Test Successful
+2020-02-25 08:57:23,241:boards.py:Board successfully deleted
+2020-02-25 08:57:23,664:boards.py:Board successfully created
+2020-02-25 08:57:24,051:boards.py:Board data successfully received
+2020-02-25 08:57:24,051:test_boards.py:Test Successful
+2020-02-25 08:57:24,735:boards.py:Board successfully deleted
+2020-02-25 08:57:25,156:boards.py:Board successfully created
+2020-02-25 08:57:25,555:boards.py:Board data successfully received
+2020-02-25 08:57:25,556:test_boards.py:Test Successful
+2020-02-25 08:57:26,374:boards.py:Board successfully deleted
+2020-02-25 08:57:26,883:boards.py:Board successfully created
+2020-02-25 08:57:27,511:boards.py:Board successfully deleted
+2020-02-25 08:57:27,511:test_boards.py:Test Successful
+2020-02-25 08:57:27,905:boards.py:Error in deleting board
+2020-02-25 09:00:27,621:boards.py:Error in creating board
+2020-02-25 09:00:27,621:test_boards.py:Test Successful
+2020-02-25 09:00:38,277:boards.py:Board successfully created
+2020-02-25 09:00:39,218:boards.py:Board successfully deleted
+2020-02-25 09:00:39,806:boards.py:Board successfully created
+2020-02-25 09:00:40,523:boards.py:Board successfully deleted
+2020-02-25 09:01:24,561:boards.py:Board successfully created
+2020-02-25 09:01:24,861:boards.py:Board data successfully received
+2020-02-25 09:01:24,862:test_boards.py:Test Successful
+2020-02-25 09:01:25,522:boards.py:Board successfully deleted
+2020-02-25 09:01:26,002:boards.py:Board successfully created
+2020-02-25 09:01:26,297:boards.py:Board data successfully received
+2020-02-25 09:01:26,297:test_boards.py:Test Successful
+2020-02-25 09:01:27,100:boards.py:Board successfully deleted
+2020-02-25 09:14:15,843:boards.py:Board successfully created
+2020-02-25 09:14:15,846:test_boards.py:Test Successful
+2020-02-25 09:14:16,955:boards.py:Board successfully deleted
+2020-02-25 09:14:17,375:boards.py:Error in creating board
+2020-02-25 09:14:17,376:test_boards.py:Test Successful
+2020-02-25 09:14:18,421:boards.py:Board successfully created
+2020-02-25 09:14:18,838:boards.py:Board successfully updated
+2020-02-25 09:14:18,839:test_boards.py:Test Successful
+2020-02-25 09:14:19,511:boards.py:Board successfully deleted
+2020-02-25 09:14:20,009:boards.py:Board successfully created
+2020-02-25 09:14:20,429:boards.py:Board successfully updated
+2020-02-25 09:14:20,430:test_boards.py:Test Successful
+2020-02-25 09:14:21,163:boards.py:Board successfully deleted
+2020-02-25 09:14:21,682:boards.py:Board successfully created
+2020-02-25 09:14:22,093:boards.py:Board data successfully received
+2020-02-25 09:14:22,093:test_boards.py:Test Successful
+2020-02-25 09:14:22,948:boards.py:Board successfully deleted
+2020-02-25 09:14:23,520:boards.py:Board successfully created
+2020-02-25 09:14:23,851:boards.py:Board data successfully received
+2020-02-25 09:14:23,851:test_boards.py:Test Successful
+2020-02-25 09:14:24,647:boards.py:Board successfully deleted
+2020-02-25 09:14:25,163:boards.py:Board successfully created
+2020-02-25 09:14:25,855:boards.py:Board successfully deleted
+2020-02-25 09:14:25,855:test_boards.py:Test Successful
+2020-02-25 09:14:26,175:boards.py:Error in deleting board
+2020-02-25 09:14:26,701:boards.py:Board successfully created
+2020-02-25 09:14:27,105:list.py:List successfully created
+2020-02-25 09:14:27,614:cards.py:Card successfully created
+2020-02-25 09:14:27,616:test_cards.py:Test Successful
+2020-02-25 09:14:28,394:boards.py:Board successfully deleted
+2020-02-25 09:14:28,860:boards.py:Board successfully created
+2020-02-25 09:14:29,261:list.py:List successfully created
+2020-02-25 09:14:29,775:cards.py:Card successfully created
+2020-02-25 09:14:29,778:test_cards.py:Test Successful
+2020-02-25 09:14:30,457:boards.py:Board successfully deleted
+2020-02-25 09:14:30,910:boards.py:Board successfully created
+2020-02-25 09:14:31,327:list.py:List successfully created
+2020-02-25 09:14:31,717:cards.py:Error in creating card
+2020-02-25 09:14:31,717:test_cards.py:Test Successful
+2020-02-25 09:14:33,115:boards.py:Board successfully deleted
+2020-02-25 09:14:33,666:boards.py:Board successfully created
+2020-02-25 09:14:34,085:list.py:List successfully created
+2020-02-25 09:14:34,403:cards.py:Error in creating card
+2020-02-25 09:14:34,404:test_cards.py:Test Successful
+2020-02-25 09:14:35,716:boards.py:Board successfully deleted
+2020-02-25 09:14:36,224:boards.py:Board successfully created
+2020-02-25 09:14:36,636:list.py:List successfully created
+2020-02-25 09:14:37,109:cards.py:Card successfully created
+2020-02-25 09:14:37,961:cards.py:Card data successfully received
+2020-02-25 09:14:37,962:test_cards.py:Test Successful
+2020-02-25 09:14:38,781:boards.py:Board successfully deleted
+2020-02-25 09:14:40,027:boards.py:Board successfully created
+2020-02-25 09:14:40,522:list.py:List successfully created
+2020-02-25 09:14:41,029:cards.py:Card successfully created
+2020-02-25 09:14:41,749:cards.py:Card data successfully received
+2020-02-25 09:14:41,750:test_cards.py:Test Successful
+2020-02-25 09:14:42,429:boards.py:Board successfully deleted
+2020-02-25 09:14:43,897:boards.py:Board successfully created
+2020-02-25 09:14:44,410:list.py:List successfully created
+2020-02-25 09:14:45,331:cards.py:Card successfully created
+2020-02-25 09:14:45,820:cards.py:Card successfully updated
+2020-02-25 09:14:45,820:test_cards.py:Test Successful
+2020-02-25 09:14:46,621:boards.py:Board successfully deleted
+2020-02-25 09:14:47,097:boards.py:Board successfully created
+2020-02-25 09:14:47,697:list.py:List successfully created
+2020-02-25 09:14:48,613:cards.py:Card successfully created
+2020-02-25 09:14:49,125:cards.py:Card successfully deleted
+2020-02-25 09:14:49,125:test_cards.py:Test Successful
+2020-02-25 09:14:49,799:boards.py:Board successfully deleted
+2020-02-25 09:14:50,369:boards.py:Board successfully created
+2020-02-25 09:14:50,784:list.py:List successfully created
+2020-02-25 09:14:51,272:cards.py:Card successfully created
+2020-02-25 09:14:51,992:cards.py:Error in deleting card
+2020-02-25 09:14:51,992:test_cards.py:Test Successful
+2020-02-25 09:14:52,678:boards.py:Board successfully deleted
+2020-02-25 09:14:53,241:boards.py:Board successfully created
+2020-02-25 09:14:53,635:label.py:creating label successful
+2020-02-25 09:14:53,635:test_labels.py:Test Successful
+2020-02-25 09:14:54,479:boards.py:Board successfully deleted
+2020-02-25 09:14:54,972:boards.py:Board successfully created
+2020-02-25 09:14:55,795:label.py:creating label successful
+2020-02-25 09:14:58,341:label.py:creating label successful
+2020-02-25 09:14:58,341:test_labels.py:Test Successful
+2020-02-25 09:14:59,029:boards.py:Board successfully deleted
+2020-02-25 09:14:59,591:boards.py:Board successfully created
+2020-02-25 09:14:59,984:label.py:creating label successful
+2020-02-25 09:15:00,670:label.py:creating label successful
+2020-02-25 09:15:00,671:test_labels.py:Test Successful
+2020-02-25 09:15:01,663:boards.py:Board successfully deleted
+2020-02-25 09:15:02,541:boards.py:Board successfully created
+2020-02-25 09:15:03,009:label.py:creating label successful
+2020-02-25 09:15:03,610:label.py:creating label successful
+2020-02-25 09:15:03,611:test_labels.py:Test Successful
+2020-02-25 09:15:04,703:boards.py:Board successfully deleted
+2020-02-25 09:15:05,205:boards.py:Board successfully created
+2020-02-25 09:15:05,653:list.py:List successfully created
+2020-02-25 09:15:05,655:test_list.py:Test Successful
+2020-02-25 09:15:06,427:boards.py:Board successfully deleted
+2020-02-25 09:15:06,950:boards.py:Board successfully created
+2020-02-25 09:15:07,361:list.py:List successfully created
+2020-02-25 09:15:07,363:test_list.py:Test Successful
+2020-02-25 09:15:08,079:boards.py:Board successfully deleted
+2020-02-25 09:15:08,587:boards.py:Board successfully created
+2020-02-25 09:15:08,908:list.py:Error in creating list
+2020-02-25 09:15:08,908:test_list.py:Test Successful
+2020-02-25 09:15:10,327:boards.py:Board successfully deleted
+2020-02-25 09:15:13,085:boards.py:Board successfully created
+2020-02-25 09:15:13,500:list.py:Error in creating list
+2020-02-25 09:15:13,500:test_list.py:Test Successful
+2020-02-25 09:15:14,724:boards.py:Board successfully deleted
+2020-02-25 09:15:15,257:boards.py:Board successfully created
+2020-02-25 09:15:15,811:list.py:List successfully created
+2020-02-25 09:15:16,301:list.py:List successfully updated
+2020-02-25 09:15:16,302:test_list.py:Test Successful
+2020-02-25 09:15:17,004:boards.py:Board successfully deleted
+2020-02-25 09:15:17,904:boards.py:Board successfully created
+2020-02-25 09:15:18,343:list.py:List successfully created
+2020-02-25 09:15:18,745:list.py:List data successfully received
+2020-02-25 09:15:18,745:test_list.py:Test Successful
+2020-02-25 09:15:19,431:boards.py:Board successfully deleted
+2020-02-25 09:15:19,915:boards.py:Board successfully created
+2020-02-25 09:15:20,459:member.py:Board member successfully created
+2020-02-25 09:15:20,460:test_member.py:Test Successful
+2020-02-25 09:15:21,258:boards.py:Board successfully deleted
+2020-02-25 09:15:21,709:boards.py:Board successfully created
+2020-02-25 09:15:22,196:member.py:Board member successfully created
+2020-02-25 09:15:22,198:test_member.py:Test Successful
+2020-02-25 09:15:23,056:boards.py:Board successfully deleted
+2020-02-25 09:15:23,561:boards.py:Board successfully created
+2020-02-25 09:15:23,962:member.py:Board member creation failed
+2020-02-25 09:15:23,963:test_member.py:Test Successful
+2020-02-25 09:15:25,310:boards.py:Board successfully deleted
+2020-02-25 09:15:25,783:boards.py:Board successfully created
+2020-02-25 09:15:26,179:member.py:Board member creation failed
+2020-02-25 09:15:26,179:test_member.py:Test Successful
+2020-02-25 09:15:27,464:boards.py:Board successfully deleted
+2020-02-25 09:15:27,943:boards.py:Board successfully created
+2020-02-25 09:15:28,484:member.py:Board member successfully created
+2020-02-25 09:15:29,176:member.py:Board member data successfully received
+2020-02-25 09:15:29,176:test_member.py:Test Successful
+2020-02-25 09:15:30,089:boards.py:Board successfully deleted
+2020-02-25 09:15:30,602:boards.py:Board successfully created
+2020-02-25 09:15:31,130:member.py:Board member successfully created
+2020-02-25 09:15:31,527:member.py:Board member data successfully received
+2020-02-25 09:15:31,527:test_member.py:Test Successful
+2020-02-25 09:15:32,335:boards.py:Board successfully deleted
+2020-02-25 09:15:32,834:boards.py:Board successfully created
+2020-02-25 09:15:33,331:member.py:Board member successfully created
+2020-02-25 09:15:33,678:member.py:Board member data successfully received
+2020-02-25 09:15:33,678:test_member.py:Test Successful
+2020-02-25 09:15:34,495:boards.py:Board successfully deleted
+2020-02-25 09:15:35,023:boards.py:Board successfully created
+2020-02-25 09:15:35,520:member.py:Board member successfully created
+2020-02-25 09:15:35,859:member.py:Board member notification received
+2020-02-25 09:15:35,859:test_member.py:Test Successful
+2020-02-25 09:15:36,708:boards.py:Board successfully deleted
+2020-02-25 09:17:03,792:boards.py:Board successfully created
+2020-02-25 09:17:03,795:test_boards.py:Test Successful
+2020-02-25 09:17:05,171:boards.py:Board successfully deleted
+2020-02-25 09:17:05,523:boards.py:Error in creating board
+2020-02-25 09:17:05,524:test_boards.py:Test Successful
+2020-02-25 09:17:06,545:boards.py:Board successfully created
+2020-02-25 09:17:06,878:boards.py:Board successfully updated
+2020-02-25 09:17:06,878:test_boards.py:Test Successful
+2020-02-25 09:17:07,555:boards.py:Board successfully deleted
+2020-02-25 09:17:07,998:boards.py:Board successfully created
+2020-02-25 09:17:08,399:boards.py:Board successfully updated
+2020-02-25 09:17:08,400:test_boards.py:Test Successful
+2020-02-25 09:17:09,010:boards.py:Board successfully deleted
+2020-02-25 09:17:09,432:boards.py:Board successfully created
+2020-02-25 09:17:09,842:boards.py:Board data successfully received
+2020-02-25 09:17:09,842:test_boards.py:Test Successful
+2020-02-25 09:17:10,491:boards.py:Board successfully deleted
+2020-02-25 09:17:11,085:boards.py:Board successfully created
+2020-02-25 09:17:11,469:boards.py:Board data successfully received
+2020-02-25 09:17:11,469:test_boards.py:Test Successful
+2020-02-25 09:17:12,111:boards.py:Board successfully deleted
+2020-02-25 09:17:12,592:boards.py:Board successfully created
+2020-02-25 09:17:13,239:boards.py:Board successfully deleted
+2020-02-25 09:17:13,240:test_boards.py:Test Successful
+2020-02-25 09:17:14,159:boards.py:Error in deleting board
+2020-02-25 09:17:14,556:boards.py:Board successfully created
+2020-02-25 09:17:15,161:list.py:List successfully created
+2020-02-25 09:17:15,601:cards.py:Card successfully created
+2020-02-25 09:17:15,602:test_cards.py:Test Successful
+2020-02-25 09:17:16,477:boards.py:Board successfully deleted
+2020-02-25 09:17:16,905:boards.py:Board successfully created
+2020-02-25 09:17:17,508:list.py:List successfully created
+2020-02-25 09:17:18,029:cards.py:Card successfully created
+2020-02-25 09:17:18,031:test_cards.py:Test Successful
+2020-02-25 09:17:18,663:boards.py:Board successfully deleted
+2020-02-25 09:17:19,252:boards.py:Board successfully created
+2020-02-25 09:17:19,652:list.py:List successfully created
+2020-02-25 09:17:20,087:cards.py:Error in creating card
+2020-02-25 09:17:20,087:test_cards.py:Test Successful
+2020-02-25 09:17:20,880:boards.py:Board successfully deleted
+2020-02-25 09:17:21,394:boards.py:Board successfully created
+2020-02-25 09:17:21,830:list.py:List successfully created
+2020-02-25 09:17:22,113:cards.py:Error in creating card
+2020-02-25 09:17:22,113:test_cards.py:Test Successful
+2020-02-25 09:17:22,935:boards.py:Board successfully deleted
+2020-02-25 09:17:23,465:boards.py:Board successfully created
+2020-02-25 09:17:23,858:list.py:List successfully created
+2020-02-25 09:17:24,271:cards.py:Card successfully created
+2020-02-25 09:17:24,676:cards.py:Card data successfully received
+2020-02-25 09:17:24,676:test_cards.py:Test Successful
+2020-02-25 09:17:25,441:boards.py:Board successfully deleted
+2020-02-25 09:17:25,897:boards.py:Board successfully created
+2020-02-25 09:17:26,341:list.py:List successfully created
+2020-02-25 09:17:26,752:cards.py:Card successfully created
+2020-02-25 09:17:27,136:cards.py:Card data successfully received
+2020-02-25 09:17:27,137:test_cards.py:Test Successful
+2020-02-25 09:17:27,770:boards.py:Board successfully deleted
+2020-02-25 09:17:28,268:boards.py:Board successfully created
+2020-02-25 09:17:28,676:list.py:List successfully created
+2020-02-25 09:17:29,091:cards.py:Card successfully created
+2020-02-25 09:17:29,611:cards.py:Card successfully updated
+2020-02-25 09:17:29,611:test_cards.py:Test Successful
+2020-02-25 09:17:30,323:boards.py:Board successfully deleted
+2020-02-25 09:17:30,847:boards.py:Board successfully created
+2020-02-25 09:17:31,233:list.py:List successfully created
+2020-02-25 09:17:31,741:cards.py:Card successfully created
+2020-02-25 09:17:32,143:cards.py:Card successfully deleted
+2020-02-25 09:17:32,144:test_cards.py:Test Successful
+2020-02-25 09:17:32,893:boards.py:Board successfully deleted
+2020-02-25 09:17:33,486:boards.py:Board successfully created
+2020-02-25 09:17:33,842:list.py:List successfully created
+2020-02-25 09:17:34,286:cards.py:Card successfully created
+2020-02-25 09:17:34,602:cards.py:Error in deleting card
+2020-02-25 09:17:34,602:test_cards.py:Test Successful
+2020-02-25 09:17:35,328:boards.py:Board successfully deleted
+2020-02-25 09:17:35,791:boards.py:Board successfully created
+2020-02-25 09:17:36,249:label.py:creating label successful
+2020-02-25 09:17:36,249:test_labels.py:Test Successful
+2020-02-25 09:17:36,876:boards.py:Board successfully deleted
+2020-02-25 09:17:37,379:boards.py:Board successfully created
+2020-02-25 09:17:37,782:label.py:creating label successful
+2020-02-25 09:17:38,082:label.py:creating label successful
+2020-02-25 09:17:38,082:test_labels.py:Test Successful
+2020-02-25 09:17:38,764:boards.py:Board successfully deleted
+2020-02-25 09:17:39,328:boards.py:Board successfully created
+2020-02-25 09:17:39,685:label.py:creating label successful
+2020-02-25 09:17:40,026:label.py:creating label successful
+2020-02-25 09:17:40,026:test_labels.py:Test Successful
+2020-02-25 09:17:40,650:boards.py:Board successfully deleted
+2020-02-25 09:17:41,176:boards.py:Board successfully created
+2020-02-25 09:17:41,570:label.py:creating label successful
+2020-02-25 09:17:41,978:label.py:creating label successful
+2020-02-25 09:17:41,978:test_labels.py:Test Successful
+2020-02-25 09:17:42,609:boards.py:Board successfully deleted
+2020-02-25 09:17:43,114:boards.py:Board successfully created
+2020-02-25 09:17:43,610:list.py:List successfully created
+2020-02-25 09:17:43,612:test_list.py:Test Successful
+2020-02-25 09:17:44,335:boards.py:Board successfully deleted
+2020-02-25 09:17:44,838:boards.py:Board successfully created
+2020-02-25 09:17:45,252:list.py:List successfully created
+2020-02-25 09:17:45,254:test_list.py:Test Successful
+2020-02-25 09:17:45,896:boards.py:Board successfully deleted
+2020-02-25 09:17:46,300:boards.py:Board successfully created
+2020-02-25 09:17:46,591:list.py:Error in creating list
+2020-02-25 09:17:46,592:test_list.py:Test Successful
+2020-02-25 09:17:47,620:boards.py:Board successfully deleted
+2020-02-25 09:17:48,125:boards.py:Board successfully created
+2020-02-25 09:17:48,448:list.py:Error in creating list
+2020-02-25 09:17:48,448:test_list.py:Test Successful
+2020-02-25 09:17:49,196:boards.py:Board successfully deleted
+2020-02-25 09:17:49,970:boards.py:Board successfully created
+2020-02-25 09:17:50,380:list.py:List successfully created
+2020-02-25 09:17:50,791:list.py:List successfully updated
+2020-02-25 09:17:50,791:test_list.py:Test Successful
+2020-02-25 09:17:51,445:boards.py:Board successfully deleted
+2020-02-25 09:17:51,846:boards.py:Board successfully created
+2020-02-25 09:17:52,425:list.py:List successfully created
+2020-02-25 09:17:52,756:list.py:List data successfully received
+2020-02-25 09:17:52,756:test_list.py:Test Successful
+2020-02-25 09:17:53,361:boards.py:Board successfully deleted
+2020-02-25 09:17:53,857:boards.py:Board successfully created
+2020-02-25 09:17:54,282:member.py:Board member successfully created
+2020-02-25 09:17:54,284:test_member.py:Test Successful
+2020-02-25 09:17:55,210:boards.py:Board successfully deleted
+2020-02-25 09:17:55,708:boards.py:Board successfully created
+2020-02-25 09:17:56,110:member.py:Board member successfully created
+2020-02-25 09:17:56,112:test_member.py:Test Successful
+2020-02-25 09:17:56,869:boards.py:Board successfully deleted
+2020-02-25 09:17:57,340:boards.py:Board successfully created
+2020-02-25 09:17:57,644:member.py:Board member creation failed
+2020-02-25 09:17:57,645:test_member.py:Test Successful
+2020-02-25 09:18:01,131:boards.py:Board successfully deleted
+2020-02-25 09:18:01,941:boards.py:Board successfully created
+2020-02-25 09:18:02,798:member.py:Board member creation failed
+2020-02-25 09:18:02,799:test_member.py:Test Successful
+2020-02-25 09:18:03,949:boards.py:Board successfully deleted
+2020-02-25 09:18:04,413:boards.py:Board successfully created
+2020-02-25 09:18:04,822:member.py:Board member successfully created
+2020-02-25 09:18:05,230:member.py:Board member data successfully received
+2020-02-25 09:18:05,230:test_member.py:Test Successful
+2020-02-25 09:18:06,004:boards.py:Board successfully deleted
+2020-02-25 09:18:06,535:boards.py:Board successfully created
+2020-02-25 09:18:07,285:member.py:Board member successfully created
+2020-02-25 09:18:07,748:member.py:Board member data successfully received
+2020-02-25 09:18:07,748:test_member.py:Test Successful
+2020-02-25 09:18:08,504:boards.py:Board successfully deleted
+2020-02-25 09:18:09,129:boards.py:Board successfully created
+2020-02-25 09:18:09,533:member.py:Board member successfully created
+2020-02-25 09:18:09,831:member.py:Board member data successfully received
+2020-02-25 09:18:09,831:test_member.py:Test Successful
+2020-02-25 09:18:10,665:boards.py:Board successfully deleted
+2020-02-25 09:18:11,170:boards.py:Board successfully created
+2020-02-25 09:18:11,577:member.py:Board member successfully created
+2020-02-25 09:18:11,889:member.py:Board member notification received
+2020-02-25 09:18:11,890:test_member.py:Test Successful
+2020-02-25 09:18:12,830:boards.py:Board successfully deleted
+2020-02-25 10:19:10,780:boards.py:Board successfully created
+2020-02-25 10:19:11,200:member.py:Board member successfully created
+2020-02-25 10:19:11,202:test_member.py:Test Successful
+2020-02-25 10:19:12,038:boards.py:Board successfully deleted
+2020-02-25 10:19:12,437:boards.py:Board successfully created
+2020-02-25 10:19:12,842:member.py:Board member successfully created
+2020-02-25 10:19:12,843:test_member.py:Test Successful
+2020-02-25 10:19:13,611:boards.py:Board successfully deleted
+2020-02-25 10:19:14,060:boards.py:Board successfully created
+2020-02-25 10:19:14,313:member.py:Board member creation failed
+2020-02-25 10:19:14,313:test_member.py:Test Successful
+2020-02-25 10:19:15,082:boards.py:Board successfully deleted
+2020-02-25 10:19:15,493:boards.py:Board successfully created
+2020-02-25 10:19:15,797:member.py:Board member creation failed
+2020-02-25 10:19:15,798:test_member.py:Test Successful
+2020-02-25 10:19:19,485:boards.py:Board successfully deleted
+2020-02-25 10:19:20,309:boards.py:Board successfully created
+2020-02-25 10:19:21,128:member.py:Board member successfully created
+2020-02-25 10:19:21,838:member.py:Board member data successfully received
+2020-02-25 10:19:21,838:test_member.py:Test Successful
+2020-02-25 10:19:22,968:boards.py:Board successfully deleted
+2020-02-25 10:19:23,894:boards.py:Board successfully created
+2020-02-25 10:19:24,719:member.py:Board member successfully created
+2020-02-25 10:19:25,436:member.py:Board member data successfully received
+2020-02-25 10:19:25,437:test_member.py:Test Successful
+2020-02-25 10:19:26,650:boards.py:Board successfully deleted
+2020-02-25 10:19:27,471:boards.py:Board successfully created
+2020-02-25 10:19:28,232:member.py:Board member successfully created
+2020-02-25 10:19:28,905:member.py:Board member data successfully received
+2020-02-25 10:19:28,906:test_member.py:Test Successful
+2020-02-25 10:19:30,030:boards.py:Board successfully deleted
+2020-02-25 10:19:30,817:boards.py:Board successfully created
+2020-02-25 10:19:31,571:member.py:Board member successfully created
+2020-02-25 10:19:32,291:member.py:Board member notification received
+2020-02-25 10:19:32,292:test_member.py:Test Successful
+2020-02-25 10:19:33,411:boards.py:Board successfully deleted
+2020-02-25 10:35:11,918:boards.py:Board successfully created
+2020-02-25 10:35:12,401:member.py:Board member successfully created
+2020-02-25 10:35:12,756:member.py:Board member notification received
+2020-02-25 10:35:14,007:boards.py:Board successfully deleted
+2020-02-25 10:44:41,567:boards.py:Board successfully created
+2020-02-25 10:44:41,969:member.py:Board member successfully created
+2020-02-25 10:44:42,263:member.py:Board member notification received
+2020-02-25 10:44:42,610:test_notifications.py:Test Successful
+2020-02-25 10:44:43,369:boards.py:Board successfully deleted
+2020-02-25 10:44:43,737:member.py:Board member notification received
+2020-02-25 10:44:44,271:test_notifications.py:Test Successful
+2020-02-25 10:46:44,467:boards.py:Board successfully created
+2020-02-25 10:46:45,196:member.py:Board member successfully created
+2020-02-25 10:46:45,905:member.py:Board member notification received
+2020-02-25 10:46:46,619:test_notifications.py:Test Successful
+2020-02-25 10:46:47,739:boards.py:Board successfully deleted
+2020-02-25 10:46:48,458:member.py:Board member notification received
+2020-02-25 10:46:49,188:test_notifications.py:Test Successful
+2020-02-25 10:46:49,892:member.py:Board member notification received
+2020-02-25 10:46:50,609:test_notifications.py:Test Successful

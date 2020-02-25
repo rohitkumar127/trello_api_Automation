@@ -43,3 +43,5 @@ url_for_avatar = '/avatar'
 querystring_for_member_avatar = {"file": "/home/rohit/Desktop/avatar.png"}
 url_for_label = 'labels/'
 url_to_update_label_name = '/name'
+url_for_notifications = '/notifications/'
+querystring_to_set_notification_status_as_unread = {"unread": "true"}
