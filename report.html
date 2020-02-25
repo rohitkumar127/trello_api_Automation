@@ -241,9 +241,12 @@ function filter_table(elem) {
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 24-Feb-2020 at 14:07:04 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v2.0.1</p>
+    <p>Report generated on 25-Feb-2020 at 11:31:27 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v2.0.1</p>
     <h2>Environment</h2>
     <table id="environment">
+      <tr>
+        <td>Base URL</td>
+        <td><a href="https://api.trello.com/1/" target="_blank">https://api.trello.com/1/</a></td></tr>
       <tr>
         <td>Packages</td>
         <td>{&apos;pytest&apos;: &apos;5.3.5&apos;, &apos;py&apos;: &apos;1.8.1&apos;, &apos;pluggy&apos;: &apos;0.13.1&apos;}</td></tr>
@@ -252,13 +255,13 @@ function filter_table(elem) {
         <td>Linux-5.3.0-28-generic-x86_64-with-Ubuntu-18.04-bionic</td></tr>
       <tr>
         <td>Plugins</td>
-        <td>{&apos;metadata&apos;: &apos;1.8.0&apos;, &apos;html&apos;: &apos;2.0.1&apos;}</td></tr>
+        <td>{&apos;xdist&apos;: &apos;1.31.0&apos;, &apos;forked&apos;: &apos;1.1.3&apos;, &apos;metadata&apos;: &apos;1.8.0&apos;, &apos;base-url&apos;: &apos;1.4.1&apos;, &apos;html&apos;: &apos;2.0.1&apos;}</td></tr>
       <tr>
         <td>Python</td>
         <td>3.6.9</td></tr></table>
     <h2>Summary</h2>
-    <p>17 tests ran in 38.65 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">17 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>37 tests ran in 79.71 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">37 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -272,178 +275,396 @@ function filter_table(elem) {
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_boards.py::TestBoards::test_board_successful_creation</td>
+          <td class="col-name">testcases/test_boards.py::TestBoards::test_board_successful_creation_tc1</td>
           <td class="col-duration">0.00</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:test_boards.py:14 Test Successful
-[35mDEBUG   [0m logs.logging_setup:test_boards.py:14 Test Successful<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:test_boards.py:13 Test Successful<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_boards.py::TestBoards::test_create_invalid_board</td>
-          <td class="col-duration">0.44</td>
+          <td class="col-name">testcases/test_boards.py::TestBoards::test_create_invalid_board_tc2</td>
+          <td class="col-duration">0.30</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:16 There was an error in creating board
-[1m[31mERROR   [0m logs.logging_setup:test_boards.py:12 Assertion failed
-Traceback (most recent call last):
-  File &quot;/home/rohit/major_api_assignment/testcases/test_boards.py&quot;, line 10, in compare_func
-    assert x == y
-AssertionError: assert 404 == 400<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:15 Error in creating board
+[35mDEBUG   [0m logs.logging_setup:test_boards.py:13 Test Successful<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_boards.py::TestBoards::test_successful_board_update</td>
-          <td class="col-duration">0.41</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:39 Board data updated received<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_boards.py::TestBoards::test_successful_board_get_request</td>
+          <td class="col-name">testcases/test_boards.py::TestBoards::test_successful_board_update_tc3</td>
           <td class="col-duration">0.40</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:29 board data successfully received<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:31 Board successfully updated
+[35mDEBUG   [0m logs.logging_setup:test_boards.py:13 Test Successful<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_boards.py::TestBoards::test_board_deletion</td>
-          <td class="col-duration">0.81</td>
+          <td class="col-name">testcases/test_boards.py::TestBoards::test_successful_board_update_by_name_tc4</td>
+          <td class="col-duration">0.43</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:49 Board successfully deleted<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:31 Board successfully updated
+[35mDEBUG   [0m logs.logging_setup:test_boards.py:13 Test Successful<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_cards.py::TestCards::test_card_successful_creation</td>
-          <td class="col-duration">0.00</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created
-[35mDEBUG   [0m logs.logging_setup:list.py:18 List successfully created
-[35mDEBUG   [0m logs.logging_setup:cards.py:19 Card successfully created<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_cards.py::TestCards::test_card_unsuccessful_creation</td>
+          <td class="col-name">testcases/test_boards.py::TestBoards::test_successful_board_get_request_tc5</td>
           <td class="col-duration">0.42</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created
-[35mDEBUG   [0m logs.logging_setup:list.py:18 List successfully created
-[35mDEBUG   [0m logs.logging_setup:cards.py:19 Card successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:cards.py:16 There was an error in creating card<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:22 Board data successfully received
+[35mDEBUG   [0m logs.logging_setup:test_boards.py:13 Test Successful<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_cards.py::TestCards::test_card_unsuccessful_creation_using_invalid_url</td>
+          <td class="col-name">testcases/test_boards.py::TestBoards::test_successful_board_get_request_by_name_tc6</td>
+          <td class="col-duration">0.40</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:22 Board data successfully received
+[35mDEBUG   [0m logs.logging_setup:test_boards.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_boards.py::TestBoards::test_board_deletion_tc7</td>
+          <td class="col-duration">0.91</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:40 Board successfully deleted
+[35mDEBUG   [0m logs.logging_setup:test_boards.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_cards.py::TestCards::test_card_successful_creation_tc14</td>
+          <td class="col-duration">0.00</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:list.py:13 List successfully created
+[35mDEBUG   [0m logs.logging_setup:cards.py:13 Card successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:test_cards.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_cards.py::TestCards::test_card_successful_creation_by_name_tc15</td>
+          <td class="col-duration">0.00</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:list.py:13 List successfully created
+[35mDEBUG   [0m logs.logging_setup:cards.py:13 Card successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:test_cards.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_cards.py::TestCards::test_card_unsuccessful_creation_tc16</td>
           <td class="col-duration">0.34</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created
-[35mDEBUG   [0m logs.logging_setup:list.py:18 List successfully created
-[35mDEBUG   [0m logs.logging_setup:cards.py:19 Card successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:cards.py:16 There was an error in creating card<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:list.py:13 List successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:cards.py:15 Error in creating card
+[35mDEBUG   [0m logs.logging_setup:test_cards.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_cards.py::TestCards::test_card_unsuccessful_creation_using_invalid_url</td>
+          <td class="col-duration">0.33</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:list.py:13 List successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:cards.py:15 Error in creating card
+[35mDEBUG   [0m logs.logging_setup:test_cards.py:13 Test Successful<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">testcases/test_cards.py::TestCards::test_getting_card_data</td>
-          <td class="col-duration">0.42</td>
+          <td class="col-duration">0.53</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created
-[35mDEBUG   [0m logs.logging_setup:list.py:18 List successfully created
-[35mDEBUG   [0m logs.logging_setup:cards.py:19 Card successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:cards.py:29 Card data successfully received<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:list.py:13 List successfully created
+[35mDEBUG   [0m logs.logging_setup:cards.py:13 Card successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:cards.py:22 Card data successfully received
+[35mDEBUG   [0m logs.logging_setup:test_cards.py:13 Test Successful<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_cards.py::TestCards::test_update_card_data</td>
-          <td class="col-duration">0.52</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created
-[35mDEBUG   [0m logs.logging_setup:list.py:18 List successfully created
-[35mDEBUG   [0m logs.logging_setup:cards.py:19 Card successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:cards.py:39 Card data successfully updated<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_cards.py::TestCards::test_deleting_card_successfully</td>
-          <td class="col-duration">0.42</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created
-[35mDEBUG   [0m logs.logging_setup:list.py:18 List successfully created
-[35mDEBUG   [0m logs.logging_setup:cards.py:19 Card successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:cards.py:49 Card successfully deleted<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_cards.py::TestCards::test_deleting_card_which_is_nor_present</td>
-          <td class="col-duration">0.40</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created
-[35mDEBUG   [0m logs.logging_setup:list.py:18 List successfully created
-[35mDEBUG   [0m logs.logging_setup:cards.py:19 Card successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:cards.py:46 There was an error in deleting card<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_list.py::TestLists::test_list_successful_creation</td>
-          <td class="col-duration">0.00</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created
-[35mDEBUG   [0m logs.logging_setup:list.py:18 List successfully created<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_list.py::TestLists::test_list_unsuccessful_creation</td>
-          <td class="col-duration">0.31</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created
-[35mDEBUG   [0m logs.logging_setup:list.py:18 List successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:list.py:15 There was an error in creating list<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_list.py::TestLists::test_list_unsuccessful_creation_providing_invalid_board_id</td>
-          <td class="col-duration">0.40</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created
-[35mDEBUG   [0m logs.logging_setup:list.py:18 List successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:list.py:15 There was an error in creating list<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_list.py::TestLists::test_update_list_name</td>
+          <td class="col-name">testcases/test_cards.py::TestCards::test_getting_card_data_verifying_name</td>
           <td class="col-duration">0.51</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created
-[35mDEBUG   [0m logs.logging_setup:list.py:18 List successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:list.py:38 Card data successfully updated<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:list.py:13 List successfully created
+[35mDEBUG   [0m logs.logging_setup:cards.py:13 Card successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:cards.py:22 Card data successfully received
+[35mDEBUG   [0m logs.logging_setup:test_cards.py:13 Test Successful<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">testcases/test_list.py::TestLists::test_getting_list_data</td>
-          <td class="col-duration">0.39</td>
+          <td class="col-name">testcases/test_cards.py::TestCards::test_update_card_data</td>
+          <td class="col-duration">0.60</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:19 Board created
-[35mDEBUG   [0m logs.logging_setup:list.py:18 List successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:list.py:28 List data successfully received<br/></div></td></tr></tbody></table></body></html>
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:list.py:13 List successfully created
+[35mDEBUG   [0m logs.logging_setup:cards.py:13 Card successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:cards.py:31 Card successfully updated
+[35mDEBUG   [0m logs.logging_setup:test_cards.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_cards.py::TestCards::test_deleting_card_successfully</td>
+          <td class="col-duration">0.53</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:list.py:13 List successfully created
+[35mDEBUG   [0m logs.logging_setup:cards.py:13 Card successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:cards.py:40 Card successfully deleted
+[35mDEBUG   [0m logs.logging_setup:test_cards.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_cards.py::TestCards::test_deleting_card_which_is_nor_present</td>
+          <td class="col-duration">0.34</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:list.py:13 List successfully created
+[35mDEBUG   [0m logs.logging_setup:cards.py:13 Card successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:cards.py:42 Error in deleting card
+[35mDEBUG   [0m logs.logging_setup:test_cards.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_labels.py::TestLabel::test_create_label</td>
+          <td class="col-duration">0.44</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:label.py:13 creating label successful
+[35mDEBUG   [0m logs.logging_setup:test_labels.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_labels.py::TestLabel::test_get_label_response</td>
+          <td class="col-duration">0.77</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:label.py:13 creating label successful
+[35mDEBUG   [0m logs.logging_setup:label.py:22 creating label successful
+[35mDEBUG   [0m logs.logging_setup:test_labels.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_labels.py::TestLabel::test_get_label_name</td>
+          <td class="col-duration">0.83</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:label.py:13 creating label successful
+[35mDEBUG   [0m logs.logging_setup:label.py:22 creating label successful
+[35mDEBUG   [0m logs.logging_setup:test_labels.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_labels.py::TestLabel::test_update_label_name</td>
+          <td class="col-duration">0.95</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:label.py:13 creating label successful
+[35mDEBUG   [0m logs.logging_setup:label.py:31 creating label successful
+[35mDEBUG   [0m logs.logging_setup:test_labels.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_list.py::TestLists::test_list_successful_creation_tc8</td>
+          <td class="col-duration">0.00</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:list.py:13 List successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:test_list.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_list.py::TestLists::test_list_successful_creation_by_list_name_tc9</td>
+          <td class="col-duration">0.00</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:list.py:13 List successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:test_list.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_list.py::TestLists::test_list_unsuccessful_creation_tc10</td>
+          <td class="col-duration">0.41</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:list.py:15 Error in creating list
+[35mDEBUG   [0m logs.logging_setup:test_list.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_list.py::TestLists::test_list_unsuccessful_creation_providing_invalid_board_id_tc11</td>
+          <td class="col-duration">0.42</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:list.py:15 Error in creating list
+[35mDEBUG   [0m logs.logging_setup:test_list.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_list.py::TestLists::test_update_list_name_tc12</td>
+          <td class="col-duration">0.49</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:list.py:13 List successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:list.py:31 List successfully updated
+[35mDEBUG   [0m logs.logging_setup:test_list.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_list.py::TestLists::test_getting_list_data_tc13</td>
+          <td class="col-duration">0.37</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:list.py:13 List successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:list.py:22 List data successfully received
+[35mDEBUG   [0m logs.logging_setup:test_list.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_member.py::TestMember::test_board_member_successful_creation</td>
+          <td class="col-duration">0.00</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:member.py:13 Board member successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:test_member.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_member.py::TestMember::test_board_member_successful_creation_by_member_name</td>
+          <td class="col-duration">0.00</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:member.py:13 Board member successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:test_member.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_member.py::TestMember::test_board_member_unsuccessful_creation</td>
+          <td class="col-duration">0.43</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:member.py:15 Board member creation failed
+[35mDEBUG   [0m logs.logging_setup:test_member.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_member.py::TestMember::test_board_member_unsuccessful_creation_by_message_response</td>
+          <td class="col-duration">0.35</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:member.py:15 Board member creation failed
+[35mDEBUG   [0m logs.logging_setup:test_member.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_member.py::TestMember::test_getting_board_members</td>
+          <td class="col-duration">0.37</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:member.py:13 Board member successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:member.py:22 Board member data successfully received
+[35mDEBUG   [0m logs.logging_setup:test_member.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_member.py::TestMember::test_getting_board_members_verifying_by_name</td>
+          <td class="col-duration">0.35</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:member.py:13 Board member successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:member.py:22 Board member data successfully received
+[35mDEBUG   [0m logs.logging_setup:test_member.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_member.py::TestMember::test_get_member_by_its_id</td>
+          <td class="col-duration">0.38</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:member.py:13 Board member successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:member.py:32 Board member data successfully received
+[35mDEBUG   [0m logs.logging_setup:test_member.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_member.py::TestMember::test_get_member_notifications</td>
+          <td class="col-duration">0.34</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:member.py:13 Board member successfully created<br/> ------------------------------Captured stdout call------------------------------ <br/>[{&#x27;id&#x27;: &#x27;5e54a5c4f069b2884ba9eb23&#x27;, &#x27;unread&#x27;: True, &#x27;type&#x27;: &#x27;addedToBoard&#x27;, &#x27;date&#x27;: &#x27;2020-02-25T04:42:44.044Z&#x27;, &#x27;dateRead&#x27;: None, &#x27;data&#x27;: {&#x27;board&#x27;: {&#x27;id&#x27;: &#x27;5e53986ebc8c2d39fa1a735f&#x27;, &#x27;name&#x27;: &#x27;HU&#x27;, &#x27;shortLink&#x27;: &#x27;tojrbgjT&#x27;}, &#x27;idMember&#x27;: &#x27;5d5f76e0179639186c2d4a71&#x27;, &#x27;memberType&#x27;: &#x27;normal&#x27;}, &#x27;idMemberCreator&#x27;: &#x27;5e4f6a2a1bd5cc3f2ed6cd8b&#x27;, &#x27;idAction&#x27;: &#x27;5e54a5c4f069b2884ba9eb17&#x27;, &#x27;reactions&#x27;: [], &#x27;memberCreator&#x27;: {&#x27;id&#x27;: &#x27;5e4f6a2a1bd5cc3f2ed6cd8b&#x27;, &#x27;activityBlocked&#x27;: False, &#x27;avatarHash&#x27;: None, &#x27;avatarUrl&#x27;: None, &#x27;fullName&#x27;: &#x27;Saurabh Raj&#x27;, &#x27;idMemberReferrer&#x27;: None, &#x27;initials&#x27;: &#x27;SR&#x27;, &#x27;nonPublic&#x27;: {}, &#x27;nonPublicAvailable&#x27;: False, &#x27;username&#x27;: &#x27;saurabhraj8&#x27;}}]
+<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:member.py:42 Board member notification received
+[35mDEBUG   [0m logs.logging_setup:test_member.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_notifications.py::TestNotification::test_get_member_notifications</td>
+          <td class="col-duration">0.81</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:member.py:13 Board member successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:member.py:42 Board member notification received
+[35mDEBUG   [0m logs.logging_setup:test_notifications.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_notifications.py::TestNotification::test_update_notification_read_status_verify_status_code</td>
+          <td class="col-duration">0.74</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:member.py:13 Board member successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:member.py:42 Board member notification received
+[35mDEBUG   [0m logs.logging_setup:test_notifications.py:13 Test Successful<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testcases/test_notifications.py::TestNotification::test_update_notification_read_status_verify_unread_property</td>
+          <td class="col-duration">0.81</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:boards.py:13 Board successfully created
+[35mDEBUG   [0m logs.logging_setup:member.py:13 Board member successfully created<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m logs.logging_setup:member.py:42 Board member notification received
+[35mDEBUG   [0m logs.logging_setup:test_notifications.py:13 Test Successful<br/></div></td></tr></tbody></table></body></html>

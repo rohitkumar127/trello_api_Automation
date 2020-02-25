@@ -1,7 +1,7 @@
 from requests_oauthlib import OAuth1Session
 import json
 
-with open('user_tokens.json', 'r') as data:
+with open('../user_tokens.json', 'r') as data:
     data = json.load(data)
 client_key = data.get('client_key')
 client_secret = data.get('client_secret')

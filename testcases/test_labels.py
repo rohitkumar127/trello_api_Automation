@@ -1,6 +1,6 @@
 from trello_pages.boards import board
 from trello_pages.label import label
-from constants import *
+from utility.constants import *
 import pytest
 from logs.logging_setup import logger
 

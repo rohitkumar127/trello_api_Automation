@@ -1,6 +1,6 @@
 from trello_pages.notifications import notification
 from trello_pages.member import member
-from constants import *
+from utility.constants import *
 import pytest
 from logs.logging_setup import logger
 
@@ -27,6 +27,8 @@ class TestNotification:
                                        notification_id=notification_id)
         self.compare_values(notification.get_notification_response.status_code, 200)
 
+    @pytest.mark.update
+    @pytest.mark.usefixtures("member_setup")
     def test_update_notification_read_status_verify_status_code(self):
         member_id = member.create_board_member_response.json()['members'][0]['id']
         member.get_member_notifications(base_url=base_url, url_for_member=getting_from_members,
@@ -38,6 +40,8 @@ class TestNotification:
                                           querystring=querystring_to_set_notification_status_as_unread)
         self.compare_values(notification.update_notification_response.status_code, 200)
 
+    @pytest.mark.update
+    @pytest.mark.usefixtures("member_setup")
     def test_update_notification_read_status_verify_unread_property(self):
         member_id = member.create_board_member_response.json()['members'][0]['id']
         member.get_member_notifications(base_url=base_url, url_for_member=getting_from_members,

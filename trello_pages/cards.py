@@ -1,4 +1,4 @@
-from config import trello
+from utility.config import trello
 from logs.logging_setup import logger
 
 

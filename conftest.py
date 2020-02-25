@@ -3,7 +3,7 @@ from trello_pages.boards import board
 from trello_pages.list import trello_list
 from trello_pages.cards import cards
 from trello_pages.member import member
-from constants import *
+from utility.constants import *
 
 
 @pytest.fixture()

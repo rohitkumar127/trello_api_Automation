@@ -1,5 +1,4 @@
-from config import trello
-from logs.logging_setup import *
+from utility.config import trello
 
 
 class NotificationElements:
